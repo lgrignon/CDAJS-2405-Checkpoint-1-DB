@@ -29,22 +29,20 @@ Voici les contraintes de la base de données du job board :
 - Une offre a les attributs suivants : titre du poste & descriptif du poste & ville du poste
 
 1. Modélisation
-   Modélise le MPD de la base de données, https://www.dbdesigner.net/ te permettra d'exporter la BDD au format SQLite ce qui te sera utile par la suite. Pense à prendre un screenshot de la modélisation puis la placer dans le dossier BDD.
+   - Modélise le MPD de la base de données, https://www.dbdesigner.net/ te permettra d'exporter la BDD au format SQLite ce qui te sera utile par la suite. Pense à prendre un screenshot de la modélisation puis la placer dans le dossier BDD.
 
 2. SQL
-   Crée la base de données avec SQLite, tu peux utiliser https://sqlime.org/ pour cela.
-
-Remplis-la avec des données fictives en utilisant des requêtes SQL. (N'hésites pas à regarder des outils comme https://www.mockaroo.com/ pour cela).
-Ajoutes le ou les scripts .sql d'insertion au dossier BDD.
+   - Crée la base de données avec SQLite, tu peux utiliser https://sqlime.org/ pour cela.
+   - Remplis-la avec des données fictives en utilisant des requêtes SQL. (N'hésites pas à regarder des outils comme https://www.mockaroo.com/ pour cela).
+   - Ajoutes le ou les scripts .sql d'insertion au dossier BDD.
 
 3. Écris ensuite les requêtes SQL permettant d'obtenir les informations suivantes : (Fichiers de requete à mettre dans le dossier BDD)
-
-Toutes les offres d'emploi
-Toutes les offres d'emploi d'une ville (Paris)
-Les informations de tous candidats qui ont postulé à une offre précise
-Les informations de tous les candidats qui ont postulé aux offres d'une entreprise
+   - Toutes les offres d'emploi
+   - Toutes les offres d'emploi d'une ville (Paris)
+   - Les informations de tous candidats qui ont postulé à une offre précise
+   - Les informations de tous les candidats qui ont postulé aux offres d'une entreprise
 
 ## Part two
 
-Dans le logique des algos de tableau réalisé jusqu'à ce jour, ajoute les méthodes pop() et shift().
+Dans la logique des algos de tableau réalisés jusqu'à ce jour, ajoute les méthodes pop() et shift().
 N'oublie pas de mettre en place les tests unitaires.
