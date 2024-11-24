@@ -3,9 +3,11 @@
 - Clone this project.
 - Read the readme to the end
 - Run `npm i`
-- Create a branche <firstname>\_<lastname> and push it now on github (if it doesn't work, ask your trainer about it)
-- Do all the exercice (2 parts)
-- Commit your code for each differents steps you achieve
+- Create a branch <firstname>\_<lastname> and push it now on github (if it doesn't work, ask your trainer about it)
+- Do all exercises (2 parts)
+- Commit your code for each differents steps you achieve, with a clear commit message
+
+💡 Problems descriptions are in french but you can write your code and commit messages in english. It shows that it's not a problem for you.
 
 ## Part One
 
@@ -36,7 +38,7 @@ Voici les contraintes de la base de données du job board :
    - Remplis-la avec des données fictives en utilisant des requêtes SQL. (N'hésites pas à regarder des outils comme https://www.mockaroo.com/ pour cela).
    - Ajoutes le ou les scripts .sql d'insertion au dossier BDD.
 
-3. Écris ensuite les requêtes SQL permettant d'obtenir les informations suivantes : (Fichiers de requete à mettre dans le dossier BDD)
+3. Écris ensuite les requêtes SQL permettant d'obtenir les informations suivantes : (Fichiers de requêtes à mettre dans le dossier BDD)
    - Toutes les offres d'emploi
    - Toutes les offres d'emploi d'une ville (Paris)
    - Les informations de tous candidats qui ont postulé à une offre précise
@@ -44,5 +46,7 @@ Voici les contraintes de la base de données du job board :
 
 ## Part two
 
-Dans la logique des algos de tableau réalisés jusqu'à ce jour, ajoute les méthodes pop() et shift().
-N'oublie pas de mettre en place les tests unitaires.
+En t'intégrant dans [le code des algos de tableau existants dans ce projet](arr.ts), ajoute les méthodes `pop()` et `shift()`.
+N'oublie pas de mettre en place [les tests unitaires](test/array.test.ts). 
+
+💡 De préférence, rédige les tests unitaires avant d'écrire le code afin de t'inscrire dans une démarche TDD.
