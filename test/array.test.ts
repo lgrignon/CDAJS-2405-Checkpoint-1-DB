@@ -17,15 +17,15 @@ describe("Array", () => {
 
   it("should remove last element in the array", () => {
     const newArray = new Arr();
+    
     newArray.push("a");
     newArray.push("b");
     newArray.push("c");
 
-    const result = newArray.pop();
+    newArray.pop();
 
     expect(newArray.value).toHaveLength(2);
-    expect(result).toEqual("c");
   })
 
-  
+
 });

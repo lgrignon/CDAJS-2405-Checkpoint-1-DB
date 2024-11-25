@@ -26,6 +26,20 @@ class Arr {
     return this.value.length;
   }
 
+  shift(): number {
+    if(this.value.length === 0) {
+      throw new Error("Empty array");
+    }
+
+    const array = new Array(this.value.length - 1);
+
+    for (let i = 1; i < this.value.length; i++) {
+      array[i - 1] = this.value[i];
+    }
+    this.value = array;
+    return this.value.length;
+  }
+
 }
 
 export default Arr;
