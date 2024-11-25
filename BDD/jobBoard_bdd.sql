@@ -51,9 +51,9 @@ INSERT INTO company (name, employer_id) VALUES
 ('UniPresta', 3);
 
 INSERT INTO job (title, city, company_id) VALUES 
-('Analog Circuit Design manager', 'Makata', 1),
-('Environmental Specialist', 'Villa Presidente Frei, Ñuñoa, Santiago, Chile', 2),
-('VP Product Management', 'Kumane', 3);
+('Analog Circuit Design manager', 'Lyon', 1),
+('Environmental Specialist', 'Paris', 2),
+('VP Product Management', 'Paris', 3);
 
 INSERT INTO candidate (login, password, last_name, first_name, email, phone) VALUES 
 ('tdonne0', '$2a$04$pEgQXSD8oELWuj5Ay.YcYurKvTwVN5c0BcIShe8DzNoN129IQmX5q', 'Donne', 'Todd', 'tdonne0@mayoclinic.com', '9389240304'),
