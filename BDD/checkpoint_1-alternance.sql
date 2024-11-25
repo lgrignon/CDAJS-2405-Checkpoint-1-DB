@@ -66,3 +66,22 @@ INSERT INTO `Candidature` (`id`, `candidat_id`, `offre_id`) VALUES
 (3, 3, 3),
 (4, 1, 3),
 (5, 3, 1);
+
+-- Toutes les offres d'emploi 
+SELECT * FROM `Offre`;
+
+-- Toutes les offres d'emploi d'une ville (Paris)
+SELECT * FROM `Offre`
+WHERE `city` = 'Paris';
+
+-- Les informations de tous candidats qui ont postulé à une offre précise
+SELECT * FROM `Candidat` as c
+JOIN Candidature as ca ON ca.candidat_id = c.id
+WHERE ca.id = 1;
+
+-- Les informations de tous les candidats qui ont postulé aux offres d'une entreprise
+SELECT * FROM `Candidat` as c
+JOIN Candidature as ca ON ca.candidat_id = c.id
+JOIN Offre as o ON ca.offre_id = o.id
+JOIN Entreprise as e ON o.entreprise_id = e.id
+WHERE e.id = 1;
