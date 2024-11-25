@@ -9,7 +9,7 @@ CREATE TABLE Company (
     name VARCHAR(255) NOT NULL,
     description TEXT,
     recruiter_id INTEGER NOT NULL,
-    FOREIGN KEY (recruiter_id) REFERENCES Recruiter(id)
+    FOREIGN KEY (recruiter_id) REFERENCES Recruiter(id) ON DELETE CASCADE
 );
 
 CREATE TABLE JobOffer (
@@ -18,7 +18,7 @@ CREATE TABLE JobOffer (
     job_description TEXT,
     job_city VARCHAR(100),
     company_id INTEGER NOT NULL,
-    FOREIGN KEY (company_id) REFERENCES Company(id)
+    FOREIGN KEY (company_id) REFERENCES Company(id) ON DELETE CASCADE
 );
 
 CREATE TABLE Candidate (
@@ -37,6 +37,6 @@ CREATE TABLE Application (
     job_offer_id INTEGER NOT NULL,
     candidate_id INTEGER NOT NULL,
     application_date DATE,
-    FOREIGN KEY (job_offer_id) REFERENCES JobOffer(id),
-    FOREIGN KEY (candidate_id) REFERENCES Candidate(id)
+    FOREIGN KEY (job_offer_id) REFERENCES JobOffer(id) ON DELETE CASCADE,
+    FOREIGN KEY (candidate_id) REFERENCES Candidate(id) ON DELETE CASCADE
 );
