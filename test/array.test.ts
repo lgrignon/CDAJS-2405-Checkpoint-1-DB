@@ -14,4 +14,30 @@ describe("Array", () => {
     expect(newArray.value).toHaveLength(1);
     expect(result).toEqual(1);
   });
+
+  it("should delete the last element in the array", () => {
+    const newArray = new Arr();
+    newArray.push("first");
+    newArray.push("element");
+    newArray.push("last");
+
+    const result = newArray.pop();
+
+    expect(newArray.value).toHaveLength(2);
+    expect(result).toEqual("last");
+    expect(newArray.value).toEqual(["first", "element"]);
+  });
+
+  it("should delete the first element in the array", () => {
+    const newArray = new Arr();
+    newArray.push("first");
+    newArray.push("element");
+    newArray.push("last");
+
+    const result = newArray.shift();
+
+    expect(newArray.value).toHaveLength(2);
+    expect(result).toEqual("first");
+    expect(newArray.value).toEqual(["element", "last"]);
+  });
 });

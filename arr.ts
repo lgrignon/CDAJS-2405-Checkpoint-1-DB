@@ -11,6 +11,16 @@ class Arr {
     this.value = array;
     return this.value.length;
   }
+
+  pop(): string {
+    const removedElement: string = "";
+    return removedElement;
+  }
+
+  shift(): string {
+    const removedElement: string = "";
+    return removedElement;
+  }
 }
 
 export default Arr;
