@@ -1,0 +1,1001 @@
+company_id,recruiter_id,name,description
+1,1,Jermain,"Displ seg fx shaft of r femur, subs for clos fx w delay heal"
+2,2,Kalie,"Disp fx of r ulna styloid pro, 7thH"
+3,3,Kellen,"Toxic effect of unsp substance, undetermined, init encntr"
+4,4,Corri,"Disp fx of 1st metatarsal bone, l ft, 7thG"
+5,5,Letta,Corrosion of first degree of left ear
+6,6,Gerti,Subluxation complex (vertebral) of lumbar region
+7,7,Godwin,"Pauciarticular juvenile rheumatoid arthritis, right shoulder"
+8,8,Suellen,"Abrasion, unspecified foot"
+9,9,Berget,"Insect bite (nonvenomous) of abdominal wall, subs encntr"
+10,10,Petrina,"Maternal care for anti-D antibodies, unsp trimester, fetus 4"
+11,11,Christy,"Ped on sktbrd injured pick-up truck, pk-up/van, unsp, init"
+12,12,Geraldine,Corrosion of third degree of elbow
+13,13,Gillie,Kyphosis and lordosis
+14,14,Nora,"Oth disrd of amniotic fluid and membrns, third tri, unsp"
+15,15,Oswald,"Poisoning by unspecified psychodysleptics, assault"
+16,16,Jacqueline,Pinta [carate]
+17,17,Emlynne,"Pathological fracture in oth disease, unsp shoulder, init"
+18,18,Rollins,"Poisoning by anticoagulants, undetermined, sequela"
+19,19,Fenelia,Oth personality & behavrl disord due to known physiol cond
+20,20,Ashleigh,"Hit by falling object due to accident to sailboat, init"
+21,21,Thomasin,"Corros 1st deg mult site of l shldr/up lmb, ex wrs/hnd, subs"
+22,22,Verile,"Corrosion of second degree of male genital region, subs"
+23,23,Lynea,Toxic effect of cyanides
+24,24,Elnora,"Unsp fracture of left foot, init encntr for closed fracture"
+25,25,Ashton,"Contusion of unspecified part of head, sequela"
+26,26,Bjorn,"Poisoning by expectorants, assault, initial encounter"
+27,27,Daphna,"Drown d/t being thrown ovrbrd by motion of merch ship, init"
+28,28,Lizette,"Occ of anml-drn vehicle injured in oth trnsp acc, sequela"
+29,29,Zena,"Major depressv disorder, single episode, in partial remis"
+30,30,Annabella,"Infection oth prt genitl trct in pregnancy, second trimester"
+31,31,Pru,"Cannabis use, unspecified with intoxication, uncomplicated"
+32,32,Gery,"Lacerat blood vessels at lower leg level, right leg, sequela"
+33,33,Adiana,"Nondisp fx of prox phalanx of l lit fngr, 7thP"
+34,34,Liuka,"Wedge comprsn fx T11-T12 vertebra, subs for fx w routn heal"
+35,35,Ker,"Dislocation of T10/T11 thoracic vertebra, sequela"
+36,36,Pennie,"Sltr-haris Type IV physeal fx lower end of ulna, left arm"
+37,37,Monika,"Occup of hv veh inj pk-up truck, pk-up/van nontraf, sequela"
+38,38,Kenny,"Stress fracture, left ankle"
+39,39,Joelie,"Disp fx of distal phalanx of right little finger, sequela"
+40,40,Grady,"Nondisplaced fracture of first metatarsal bone, right foot"
+41,41,Xerxes,"Oth fx head/neck of l femr, 7thQ"
+42,42,Alexa,"Dislocation of unsp interphalangeal joint of thmb, subs"
+43,43,Steven,Anomalies of interarch distance
+44,44,Gaspard,"Traum rupt of volar plate of r lit fngr at MCP/IP jt, init"
+45,45,Barry,"Fall on board passenger ship, subsequent encounter"
+46,46,Marline,Direct infct of verteb in infec/parastc dis classd elswhr
+47,47,Shurlock,"Adverse effect of other antiprotozoal drugs, subs encntr"
+48,48,Franklyn,Other fracture of lower end of femur
+49,49,Brendis,"Poisoning by other viral vaccines, undetermined, sequela"
+50,50,Reuben,"Pauciarticular juvenile rheumatoid arthritis, right knee"
+51,51,Zara,"Sltr-haris Type II physeal fx phalanx of right toe, 7thK"
+52,52,Lanie,"Corrosion of first degree of right hand, unsp site, init"
+53,53,Coralyn,"Inj oth blood vessels at wrs/hnd lv of left arm, init"
+54,54,Bastian,"Pnctr w fb of unsp external genital organs, female, sequela"
+55,55,Marc,Malignant neoplasm of left lower limb
+56,56,Lay,"Inj adductor muscle, fascia and tendon of left thigh, subs"
+57,57,Sky,Loose body in unspecified elbow
+58,58,Yale,"Other superficial bite of right great toe, sequela"
+59,59,Jamesy,"Neurotrophic keratoconjunctivitis, bilateral"
+60,60,Jimmie,"Adverse effect of unsp antipsychot/neurolept, sequela"
+61,61,Willie,"Unspecified open wound, unspecified ankle, subs encntr"
+62,62,Filmer,"Other articular cartilage disorders, unspecified site"
+63,63,Morgana,Other traumatic spondylolisthesis of sixth cervical vertebra
+64,64,Anton,Inj radial artery at wrist and hand level of left arm
+65,65,Ekaterina,Other neurological complications of rubella
+66,66,Nollie,Oligospermia due to drug therapy
+67,67,Gasparo,"Unsp focal TBI w LOC w death d/t brain injury bf consc, sqla"
+68,68,Emogene,"Dislocation of unsp interphaln joint of l mid finger, subs"
+69,69,Marijn,Displaced comminuted fracture of shaft of left femur
+70,70,Woodrow,"Sprain of unsp part of unsp wrist and hand, init encntr"
+71,71,Brew,"Other disorders of bone development and growth, femur"
+72,72,Cate,"Traum rupture of unsp ligmt of l idx fngr at MCP/IP jt, init"
+73,73,Sheila,Inj oth blood vessels at wrist and hand level of unsp arm
+74,74,Almeda,"Unspecified sprain of left shoulder joint, initial encounter"
+75,75,Theresa,"Disp fx of med condyle of l tibia, 7thM"
+76,76,Thomasa,"Disp fx of posterior column of unsp acetabulum, sequela"
+77,77,Charity,Pulsatile tinnitus
+78,78,Katinka,Rheumatoid myopathy with rheumatoid arthritis of left wrist
+79,79,Farlay,Displaced fracture of lateral malleolus of right fibula
+80,80,Jeffry,"Sltr-haris Type III physl fx upr end unsp tibia, 7thK"
+81,81,Jorgan,"Contact with other heat and hot substances, init encntr"
+82,82,Jodie,"Unsp physl fx low end ulna, r arm, subs for fx w delay heal"
+83,83,Sibyl,"Retinal artery branch occlusion, bilateral"
+84,84,Carolee,"Other subluxation of left knee, subsequent encounter"
+85,85,Mella,Burn of unspecified degree of unspecified thumb (nail)
+86,86,Laurent,Injury of ulnar nerve at wrist and hand level of left arm
+87,87,Farris,"Nondisp commnt fx shaft of l fibula, 7thN"
+88,88,Mercedes,"Oth osteoporosis with current pathological fracture, forearm"
+89,89,Abe,"Nondisp oblique fx shaft of r fibula, 7thP"
+90,90,Branden,"Juvenile arthritis, unspecified, vertebrae"
+91,91,Herta,"Fb in oth and multiple parts of external eye, unsp eye, subs"
+92,92,Eward,"Legal intervnt involving baton, bystander injured, sequela"
+93,93,Kalli,"Lacerat blood vessels at wrs/hnd lv of unsp arm, sequela"
+94,94,Konstanze,Contusion of body of pancreas
+95,95,Fania,"Blister (nonthermal) of scrotum and testes, subs encntr"
+96,96,Randie,"Toxic effect of contact with other venomous fish, assault"
+97,97,Filia,"Nondisp avulsion fx right ischium, subs for fx w routn heal"
+98,98,Daron,"Poisoning by methadone, undetermined, subsequent encounter"
+99,99,Griz,"Poisn by oth agents aff the cardiovasc sys, self-harm, init"
+100,100,Miquela,"Toxic effect of soaps, intentional self-harm, init encntr"
+101,101,Anthiathia,"Stable burst fracture of second lumbar vertebra, init"
+102,102,Doralynn,"Poisoning by unspecified psychostimulants, assault, sequela"
+103,103,Hermon,"Poisoning by pyrazolone derivatives, undetermined, subs"
+104,104,Arlinda,"Oth injury of axillary artery, unspecified side, init encntr"
+105,105,Brandy,Other nondisplaced fracture of upper end of left humerus
+106,106,Camellia,"Injury of nerves at wrist and hand level of right arm, init"
+107,107,Sanderson,Varicos vn of r low extrem w ulc of unsp site and inflam
+108,108,Adolph,Cocaine dependence with other cocaine-induced disorder
+109,109,Germaine,"Polyp of middle ear, unspecified ear"
+110,110,Mohandas,"Calcific tendinitis, left hand"
+111,111,Ferdie,"Strain of musc/fasc/tend triceps, unsp arm, init"
+112,112,Robbie,"Unsp nondisp fx of surg nk of unsp humer, 7thP"
+113,113,Sansone,"Oth injury of deep palmar arch of unsp hand, subs encntr"
+114,114,Milo,Candidal cystitis and urethritis
+115,115,Gayel,"Nondisp oblique fx shaft of r rad, 7thG"
+116,116,Davida,Striking against or struck by sports equipment
+117,117,Tracie,"Barton's fx l rad, subs for opn fx type 3A/B/C w delay heal"
+118,118,Otha,Burn of third degree of right lower leg
+119,119,Alfi,Threat of job loss
+120,120,Frank,"Anterior disp fx of sternal end of unsp clavicle, sequela"
+121,121,Jerrilyn,"Galeazzi's fx unsp rad, subs for opn fx type I/2 w malunion"
+122,122,Aidan,"Nondisp transverse fx shaft of unsp rad, 7thD"
+123,123,Blake,"Laceration of musc/fasc/tend at shldr/up arm, left arm, subs"
+124,124,Guglielmo,"Ganglion, shoulder"
+125,125,Katrine,"Unspecified disorder of synovium and tendon, left hand"
+126,126,Delano,Unsp injury of unsp musc/fasc/tend at forearm level
+127,127,Carlyn,"Age-rel osteopor w crnt path fx, unsp humer, 7thD"
+128,128,Welby,"Partial loss of teeth due to other specified cause, class II"
+129,129,Cameron,"Acute mastoiditis with other complications, right ear"
+130,130,Elisha,"Fall into swimming pool strk bottom causing oth injury, init"
+131,131,Samaria,Cereb infrc due to unsp occls or stenos of right cereblr art
+132,132,Annalise,"Oth types of follicular lymphoma, lymph nodes mult site"
+133,133,Bianca,"Displ unsp condyle fx low end l femr, 7thE"
+134,134,Irving,Herpesviral ocular disease
+135,135,Cordelia,"Unstable burst fx fourth lum vertebra, init for opn fx"
+136,136,Porter,"Central retinal vein occlusion, bilateral, stable"
+137,137,Britney,"Basal cell carcinoma of skin, unspecified"
+138,138,Tyson,"Displ transverse fx shaft of r rad, 7thF"
+139,139,Alica,Longitudinal reduction defect of ulna
+140,140,Dominique,Fall from other rolling-type pedestrian conveyance
+141,141,Gretta,"Pedl cyc driver inj in clsn w nonmtr vehicle nontraf, subs"
+142,142,Benjamen,"War op involving explosion of marine weapons, milt, init"
+143,143,Sancho,"Other multiple births, some liveborn"
+144,144,Jackson,Pnctr w/o fb of left lesser toe(s) w damage to nail
+145,145,Emmerich,Strain of flexor musc/fasc/tend r mid finger at forarm lv
+146,146,Griffy,"Inj lumbar, sacral and pelvic sympathetic nerves, sequela"
+147,147,Zilvia,"Complete loss of teeth due to trauma, class III"
+148,148,Dilan,"Mech compl of internal fixation device of oth bones, init"
+149,149,Lalo,"Contusion of left upper arm, initial encounter"
+150,150,Harmon,"Low lying placenta with hemorrhage, unspecified trimester"
+151,151,Don,"Partial traumatic amputation of left breast, subs encntr"
+152,152,Haskell,"Small kidney, unspecified"
+153,153,Wernher,"Enteropathic arthropathies, left ankle and foot"
+154,154,Boycie,"Burn of second degree of scalp [any part], initial encounter"
+155,155,Susannah,"Poisoning by amphetamines, undetermined, sequela"
+156,156,Chrissy,"Burn 1st deg mult site of l shldr/up lmb, ex wrs/hnd, sqla"
+157,157,Kincaid,"Frostbite with tissue necrosis of left wrist, subs encntr"
+158,158,Emylee,"Nondisp fx of nk of scapula, unsp shldr, 7thK"
+159,159,Aldon,"Retain intraoc fb, magnet, in oth or mult sites, unsp eye"
+160,160,Kristoffer,Malignant neoplasm of broad ligament
+161,161,Rex,"Sprain of interphalangeal joint of right great toe, subs"
+162,162,Bili,"Blister (nonthermal) of unspecified wrist, sequela"
+163,163,Babbette,"Benign neoplasm of urinary organ, unspecified"
+164,164,Letti,"Inj radial artery at forearm level, left arm, sequela"
+165,165,Lynn,Selective serotonin and norepinephrine reuptake inhibitors
+166,166,Huberto,"Hang-glider crash injuring occupant, subsequent encounter"
+167,167,Sloan,"Other dislocation of left patella, initial encounter"
+168,168,Tedie,"Lacerat extn musc/fasc/tend unsp finger at forarm lv, subs"
+169,169,Bryn,Inflammatory polyps of colon
+170,170,Heddie,"Nondisp fx of med malleolus of r tibia, 7thJ"
+171,171,Jolynn,"Subluxation of T10/T11 thoracic vertebra, subs encntr"
+172,172,Price,"Superficial foreign body, unspecified great toe"
+173,173,Garry,Retropharyngeal and parapharyngeal abscess
+174,174,Jamill,Mast cell activation syndrome and related disorders
+175,175,Helyn,"Disp fx of base of fourth MC bone, r hand, init for opn fx"
+176,176,Jarib,"Burn of first degree of left lower leg, initial encounter"
+177,177,Tod,Fear of flying
+178,178,Hubie,Trigeminal neuralgia
+179,179,Tonie,Allergic dermatitis of left upper eyelid
+180,180,Heinrick,Other specified injury of external jugular vein
+181,181,Wenona,"Puncture wound with foreign body of right hand, sequela"
+182,182,Ezri,"Poisoning by antitussives, intentional self-harm, init"
+183,183,Tremaine,"Calcium deposit in bursa, hip"
+184,184,Karlens,"Lead-induced chronic gout, multiple sites"
+185,185,Deirdre,"Pigmentary glaucoma, left eye, severe stage"
+186,186,Bengt,"Toxic effect of chewing tobacco, assault, sequela"
+187,187,Josefa,Other specified diseases of anus and rectum
+188,188,Philippa,"Contact with liquid air, subsequent encounter"
+189,189,Lin,Motorcycle driver injured in collision w unsp mv nontraf
+190,190,Candide,"Unsp fb in resp tract, part unsp causing asphyx, subs"
+191,191,Davy,"Oth fracture of right ilium, subs for fx w delay heal"
+192,192,Page,Hallucign abuse w hallucign persisting perception disorder
+193,193,Cash,"Other acquired abnormalities of ear ossicles, bilateral"
+194,194,Jacquette,"Unspecified nonsuppurative otitis media, bilateral"
+195,195,Angele,Fracture of body of calcaneus
+196,196,Ruperto,Other cardiomyopathies
+197,197,Constance,Benign neoplasm of adrenal gland
+198,198,Michael,"Multiple defects of retina without detachment, bilateral"
+199,199,Sue,Passenger on bus injured in collision w hv veh nontraf
+200,200,Fannie,"Lateral epicondylitis, left elbow"
+201,201,Rip,"Unsp fx unsp low leg, subs for opn fx type 3A/B/C w malunion"
+202,202,Blithe,"Other chorioretinal inflammations, left eye"
+203,203,Morton,Frostbite with tissue necrosis of unsp knee and lower leg
+204,204,Germaine,Injury of other iliac blood vessels
+205,205,Rosmunda,Striking against or struck by unspecified sports equipment
+206,206,Frederico,"Anterior cord syndrome at C6, sequela"
+207,207,Maryanne,"Person on outside of snowmobile injured in traf, sequela"
+208,208,Johnathon,Lac w/o fb of lower back and pelvis w/o penet retroperiton
+209,209,Derril,Low grade intrepith lesion cyto smr anus (LGSIL)
+210,210,Bell,"Toxic effect of chlorofluorocarbons, accidental, init"
+211,211,Lissa,"Laceration of brachial artery, left side, initial encounter"
+212,212,Shem,"Post-traumatic osteoarthritis, right wrist"
+213,213,Midge,"Disp fx of third metatarsal bone, r foot, init for opn fx"
+214,214,Glyn,"Other contact with horse, initial encounter"
+215,215,Inger,"Carpal tunnel syndrome, right upper limb"
+216,216,Herminia,"Infct fol oth infusion, tranfs and theraputc inject, sequela"
+217,217,Sherwin,"Minor laceration of right internal jugular vein, sequela"
+218,218,Timmi,"Disp fx of base of 4th MC bone, r hand, 7thK"
+219,219,Brennen,"Myositis ossificans traumatica, right shoulder"
+220,220,Vikky,"Mech compl of other internal joint prosthesis, sequela"
+221,221,Janella,Adverse effect of local antifung/infect/inflamm drugs
+222,222,Yorker,"Subluxation of left scapula, subsequent encounter"
+223,223,Reynold,"Dislocation of unsp interphaln joint of r rng fngr, sequela"
+224,224,Hy,Typhoid fever
+225,225,Joan,Other specified erythematous conditions
+226,226,Hastings,"Inj unsp muscles, fascia and tendons at thigh level"
+227,227,Lorrin,"Nondisp fx of lateral condyle of unspecified femur, sequela"
+228,228,Renaud,Other thrombophilia
+229,229,Hamel,"Displ seg fx shaft of rad, r arm, 7thR"
+230,230,Hilario,"External constriction of unspecified finger, init encntr"
+231,231,Griff,Operations of war
+232,232,Edith,Intermittent monocular esotropia
+233,233,Staford,"Inj oth blood vessels at shldr/up arm, right arm, subs"
+234,234,Selie,"Pasngr in 3-whl mv inj in clsn w statnry obj nontraf, sqla"
+235,235,Josiah,"Inj l int carotid, intcr w LOC >24 hr w/o ret consc w surv"
+236,236,Keene,"Toxic effect of ketones, assault"
+237,237,Abeu,Maternal care for viable fetus in abdominal pregnancy
+238,238,Parke,Inhalant dependence with inhalant-induced dementia
+239,239,Elmo,"Displacement of int fix of bone of left lower leg, sequela"
+240,240,Jedidiah,"Poisoning by hydantoin derivatives, accidental, init"
+241,241,Jeane,"Unsp focal TBI w LOC w death d/t brain injury bf consc, sqla"
+242,242,Jasmine,Family history of human immunodeficiency virus [HIV] disease
+243,243,Olva,"Superficial foreign body of unspecified forearm, init encntr"
+244,244,Cris,Lac w/o fb of r bk wl of thorax w/o penet thoracic cavity
+245,245,Forest,"Oth diab with mod nonp rtnop without macular edema, unsp"
+246,246,Livy,"Multiple fx of ribs, right side, subs for fx w routn heal"
+247,247,Lisbeth,"Part traum amp at level betw unsp shldr and elbow, sequela"
+248,248,Sonnie,Oligohydramnios
+249,249,Elle,"Poisoning by aminoglycosides, intentional self-harm, init"
+250,250,Worthington,"Displ commnt fx shaft of ulna, l arm, 7thP"
+251,251,Mart,"Open bite, unspecified hip, subsequent encounter"
+252,252,Gonzalo,Military operations involving explosion of aerial bomb
+253,253,Elvera,"Solitary bone cyst, left tibia and fibula"
+254,254,Daisie,Other fracture of upper end of unspecified ulna
+255,255,Lewes,"Displ transverse fx shaft of l fibula, 7thF"
+256,256,Cariotta,"Unsp inj extn musc/fasc/tend l idx fngr at forarm lv, subs"
+257,257,Rivkah,Ameboma of intestine
+258,258,Reinold,Foreign body in esophagus
+259,259,Karel,Subluxation and dislocation of T6/T7-T7/T8 thoracic vertebra
+260,260,Katha,"Unsp inj unsp musc/fasc/tend at forarm lv, unsp arm, subs"
+261,261,Maible,"Oth diabetes with stable prolif diabetic rtnop, bilateral"
+262,262,Cristen,"Unspecified petrositis, unspecified ear"
+263,263,Garv,"Burn of third degree of unspecified foot, sequela"
+264,264,Deloris,Echinococcosis
+265,265,Terrel,"Disp fx of neck of unsp talus, subs for fx w nonunion"
+266,266,Seana,"Idiopathic gout, shoulder"
+267,267,Eddie,"Dislocation of metacarpophalangeal joint of finger, sequela"
+268,268,Zorina,"Lacrimal cyst, right lacrimal gland"
+269,269,Davidde,Toxic effect of rodenticides
+270,270,Albrecht,"Toxic effect of venom of black widow spider, undet, init"
+271,271,Marlene,Unspecified transplanted organ and tissue infection
+272,272,Sybila,Opioid dependence with other opioid-induced disorder
+273,273,Torrance,Juvenile osteochondrosis of tarsus
+274,274,Noby,"Burn of third degree of unspecified palm, sequela"
+275,275,Thibaut,"Food in esophagus causing other injury, subsequent encounter"
+276,276,Egan,"Displaced intertroch fx r femur, subs for clos fx w nonunion"
+277,277,Allis,Cereb infrc due to unsp occls or stenos of left cereblr art
+278,278,Lindy,"Displ apophyseal fx unsp femr, subs for clos fx w routn heal"
+279,279,Abra,"Unspecified subluxation of left knee, initial encounter"
+280,280,Laurens,"Unspecified pre-eclampsia, complicating the puerperium"
+281,281,Vittorio,Salter-Harris Type II physeal fracture of metatarsal
+282,282,Eleanore,"Fracture of one rib, right side"
+283,283,Fayth,Fall due to collision betw sailboat and oth wtrcrft/obj
+284,284,Florencia,"Corros 1st deg of unsp site right low limb, ex ank/ft, subs"
+285,285,Kala,"Blister (nonthermal), unspecified lower leg"
+286,286,Dame,"Chronic multifocal osteomyelitis, multiple sites"
+287,287,Ax,"Traumatic rupture of left ear drum, initial encounter"
+288,288,Bogey,Retained (old) magnetic foreign body in anterior chamber
+289,289,Emlyn,"Poisoning by oth drugs acting on muscles, assault, subs"
+290,290,Georgiana,"Osteolysis, unspecified lower leg"
+291,291,Carolynn,"Poisoning by other narcotics, undetermined, init encntr"
+292,292,Micheal,"Smith's fracture of right radius, init for clos fx"
+293,293,Leann,"Toxic effect of unsp substance, accidental, sequela"
+294,294,Hamil,Congenital absence of vulva
+295,295,Barnett,"Displacement of electronic bone stimulator, subs encntr"
+296,296,Laughton,"Other rupture of muscle (nontraumatic), unsp lower leg"
+297,297,Gawen,Displaced fracture of anterior column of right acetabulum
+298,298,Delmor,"Unsp open wound of unsp great toe w/o damage to nail, init"
+299,299,Doretta,Shop (commercial) as place
+300,300,Owen,Other sprain of left little finger
+301,301,Tracy,"Nondisp bicondylar fx l tibia, subs for clos fx w routn heal"
+302,302,Robyn,"Chorioamnionitis, unspecified trimester, other fetus"
+303,303,Oralia,Unsp car occupant injured in clsn w oth and unsp mv nontraf
+304,304,Carissa,"Other shellfish poisoning, assault, subsequent encounter"
+305,305,Wyatan,Other fracture of unspecified foot
+306,306,Skye,"Cutaneous T-cell lymphoma, unspecified"
+307,307,Alvis,"Unsp inj intrns msl/tnd at ank/ft level, unsp foot, sequela"
+308,308,Annabelle,Knuckle pads
+309,309,Immanuel,"Unspecified open wound of unspecified wrist, sequela"
+310,310,Trix,"Unsp tear of unsp meniscus, current injury, right knee, init"
+311,311,Marney,"Unsp injury of musc/fasc/tend at thi lev, right thigh, init"
+312,312,Justus,"Displacement of other bone devices, implants and grafts"
+313,313,Budd,"Jump/div into swim pool strk surfc cause oth injury, sequela"
+314,314,Yuri,Fracture of vault of skull
+315,315,Yalonda,"Inj oth blood vessels at ank/ft level, right leg, init"
+316,316,Lorry,Inappropriate diet and eating habits
+317,317,Pieter,"Laceration of right quadriceps muscle, fascia and tendon"
+318,318,Siouxie,"Displaced comminuted fracture of shaft of right fibula, init"
+319,319,Doro,"Laceration w foreign body of unsp part of thorax, init"
+320,320,Kaylyn,Amebic cystitis
+321,321,Clare,"Pathological fracture, left shoulder, subs for fx w nonunion"
+322,322,Salli,"Oth fx upr end r tibia, 7thR"
+323,323,Devy,"Oligohydramnios, second trimester, fetus 5"
+324,324,Collen,"Cholesteatoma of tympanum, left ear"
+325,325,Clevie,"Displaced longitudinal fracture of unsp patella, sequela"
+326,326,Mead,"Oth non-follic lymphoma, nodes of axilla and upper limb"
+327,327,Bob,Cerebellar stroke syndrome
+328,328,Corri,"Transient retinal artery occlusion, right eye"
+329,329,Garold,"Laceration w foreign body of left cheek and TMJ area, init"
+330,330,Amalia,Lupus anticoagulant syndrome
+331,331,Kincaid,"Other specified injuries of left ankle, subsequent encounter"
+332,332,Jameson,"Central retinal artery occlusion, bilateral"
+333,333,Maire,"Unsp fx shaft of r rad, 7thN"
+334,334,Cobbie,"Mech compl of surgically created arteriovenous fistula, subs"
+335,335,Edythe,"Poisoning by opium, assault"
+336,336,Ephrayim,"Torus fracture of upper end of right fibula, sequela"
+337,337,Lelah,"Calcific tendinitis, left hand"
+338,338,Aguie,Oth speech/lang deficits following ntrm subarach hemorrhage
+339,339,Charmian,"Sltr-haris Type III physl fx upper end rad, left arm, sqla"
+340,340,Norma,"Burn of unspecified degree of unspecified upper arm, sequela"
+341,341,Sibylla,"Contusion of left eyelid and periocular area, init encntr"
+342,342,Mitzi,"Unsp inj long flxr musc/fasc/tend l thm at wrs/hnd lv, init"
+343,343,Carolann,Other female genital tract fistulae
+344,344,Hermione,"Melanocytic nevi of left lower limb, including hip"
+345,345,Oliver,Other specified injury of middle and inner ear
+346,346,Lela,"Other specified injuries of left foot, subsequent encounter"
+347,347,Rowland,Klumpke's paralysis due to birth injury
+348,348,Courtney,"Laceration of popliteal artery, unspecified leg, sequela"
+349,349,Joela,"Poisoning by unsp drugs acting on muscles, accidental, init"
+350,350,Marven,"Pinguecula, right eye"
+351,351,Andreas,Congenital bowing of tibia and fibula
+352,352,Kelley,Other fracture of foot
+353,353,Marty,"Oth fx shaft of rad, unsp arm, subs for clos fx w malunion"
+354,354,Amelie,Chr emblsm and thombos unsp deep vn unsp distal low extrm
+355,355,Heather,Unspecified injury of superficial palmar arch of left hand
+356,356,Chlo,"Coma scale, best motor response, localizes pain, unsp time"
+357,357,Christiane,"Unspecified subluxation of right thumb, subsequent encounter"
+358,358,Angus,"Unspecified superficial injury of left great toe, sequela"
+359,359,Cathi,"Sprain of other parts of lumbar spine and pelvis, sequela"
+360,360,Janka,"Person outsd bus inj pk-up truck, pk-up/van in traf, sequela"
+361,361,Agnese,Assault by unspecified firearm discharge
+362,362,Kelsey,Chronic adhesive pericarditis
+363,363,Christa,"Toxic effect of venom of Australian snake, accidental"
+364,364,Enrique,"Other and unsp malignant neoplasm of skin, unspecified"
+365,365,Donal,"Oth disp fx of sixth cervcal vert, subs for fx w nonunion"
+366,366,Joellyn,"Subluxation of unsp interphalangeal joint of thmb, init"
+367,367,Genvieve,"Nondisp fx of shaft of 1st MC bone, unsp hand, 7thG"
+368,368,Sherye,Open wound of toe without damage to nail
+369,369,Inger,"Chronic gout due to renal impairment, left knee, with tophus"
+370,370,Carrol,"Poisoning by calcium-channel blockers, undetermined, sequela"
+371,371,Ginni,"Unsp open wound of abd wall, unsp quadrant w penet perit cav"
+372,372,Ricky,"Nondisp fx of r tibial tuberosity, 7thJ"
+373,373,Bambi,"Maternal care for oth rhesus isoimmun, unsp tri, fetus 2"
+374,374,Florri,"Abrasion of left index finger, subsequent encounter"
+375,375,Alvina,"Mech compl of int fix of bones of foot and toes, init"
+376,376,Avivah,"Unsp fracture of left femur, init for opn fx type I/2"
+377,377,Morgan,"Oth disrd of bone density and structure, right forearm"
+378,378,Sigvard,"Traumatic compartment syndrome of unsp low extrm, sequela"
+379,379,Ferrell,Inj/poisn/oth conseq of external causes compl preg/chldbrth
+380,380,Heddi,"Oth adverse food reactions, not elsewhere classified, subs"
+381,381,Brana,"Open bite of other part of head, subsequent encounter"
+382,382,Lev,Hemorrhagic fever with renal syndrome
+383,383,Romeo,"Hemarthrosis, left foot"
+384,384,Devora,"Inj r int crtd,intcr w LOC >24 hr w/o ret consc w surv, sqla"
+385,385,Edyth,Complications of other transplanted organs and tissues
+386,386,Kristoffer,"Nondisp fx of 1st metatarsal bone, l ft, 7thD"
+387,387,Fina,Frostbite with tissue necrosis of toe(s)
+388,388,Sadie,"Pnctr w fb of l bk wl of thorax w penet thor cavity, sequela"
+389,389,Baryram,"Unsp inj long flexor musc/fasc/tend thmb at wrs/hnd lv, init"
+390,390,Adriane,Crohn's disease of large intestine without complications
+391,391,Adrianne,"Disp fx of r tibial spin, 7thQ"
+392,392,Giulia,"Toxic effect of copper and its compounds, undetermined, init"
+393,393,Griz,Other uterine inertia
+394,394,Rivalee,Allergic urticaria
+395,395,Tadeo,"Nondisp fx of less trochanter of l femr, 7thJ"
+396,396,Giraud,"Injury of digital nerve of left little finger, sequela"
+397,397,Stefan,Primary oligomenorrhea
+398,398,Bell,"Displaced transverse fracture of shaft of left ulna, init"
+399,399,Suzi,"Nondisp fx of capitate bone, unsp wrist, init for opn fx"
+400,400,Nelly,Vitamin B12 deficiency anemia
+401,401,Kaylil,"Disp fx of neck of third MC bone, right hand, sequela"
+402,402,Roseanna,Skin graft (allograft) (autograft) infection
+403,403,Nora,"Nondisp bimalleol fx unsp low leg, 7thM"
+404,404,Rourke,"Unsp inj unsp blood vess at forarm lv, unsp arm, sequela"
+405,405,Mort,"Oth diab with severe nonp rtnop without macular edema, unsp"
+406,406,Janela,"Acute post multifoc placoid pigment epitheliopathy, unsp eye"
+407,407,Rudolf,Acute lymphangitis of chest wall
+408,408,Chlo,"Nondisp fx of distal phalanx of right thumb, init for opn fx"
+409,409,Paulo,"Occ of anml-drn vehicle inj in clsn w statnry object, sqla"
+410,410,Dirk,"Pasngr in pk-up/van injured in clsn w hv veh in traf, init"
+411,411,Hildegaard,"Oth fracture of unsp talus, subs for fx w routn heal"
+412,412,Jareb,Other specified sepsis
+413,413,Rodger,"Legal intervnt involving unsp blunt objects, suspect injured"
+414,414,Ruperto,Personal history of in utero procedure during pregnancy
+415,415,Kimbell,"Oth injury of blood vessel of unspecified finger, sequela"
+416,416,Farrah,"Unsp fx low end unsp ulna, 7thJ"
+417,417,Beatrisa,Fracture of fourth lumbar vertebra
+418,418,Glyn,"Displ transverse fx shaft of r tibia, 7thD"
+419,419,Burt,"Anterior cord syndrome at C8, subs"
+420,420,Rochelle,"Nonpurulent mastitis associated w pregnancy, third trimester"
+421,421,Luce,"Osteonecrosis in diseases classified elsewhere, thigh"
+422,422,Cherice,"Asphyxiation due to smothering in furniture, undetermined"
+423,423,Jarib,"Person outside car injured in clsn w hv veh nontraf, sequela"
+424,424,Ilka,"Medial sublux of proximal end of tibia, unsp knee, sequela"
+425,425,Pattie,Displaced unspecified fracture of right lesser toe(s)
+426,426,Rasia,"Posterior dislocation of left radial head, sequela"
+427,427,Renae,"Lac w fb of l frnt wl of thorax w penet thor cavity, subs"
+428,428,Nelia,"Contact w lifting devices, not elsewhere classified, sequela"
+429,429,Glyn,Unspecified injury of right renal vein
+430,430,Clem,"Oth malignant neoplasm skin/ upper limb, including shoulder"
+431,431,Adina,Malignant carcinoid tumor of the descending colon
+432,432,Darrin,"Contusion of tail of pancreas, initial encounter"
+433,433,Tommi,Hemiplga fol oth ntrm intcrn hemor aff right nondom side
+434,434,Keane,"Fx unsp prt of nk of l femr, 7thM"
+435,435,Maible,"Terrorism involving dest arcrft, publ sfty offcl injured"
+436,436,Mignonne,"Unsp superficial injury of unspecified forearm, sequela"
+437,437,Britni,"Sltr-haris Type IV physl fx upr end rad, r arm, 7thD"
+438,438,Lotte,"Congenital malform of eyelid, lacrimal apparatus and orbit"
+439,439,Renelle,Exposure to sofa fire due to other burning material
+440,440,Codie,"Unsp fx upr end l rad, 7thR"
+441,441,Sayres,Necatoriasis
+442,442,Crawford,Unspecified injury of deep palmar arch
+443,443,Tandy,"Toxic effect of carb monx from unsp source, self-harm, init"
+444,444,Kat,"Complication of mesent art following a procedure, NEC, init"
+445,445,Hort,Public park as the place of occurrence of the external cause
+446,446,Abraham,"Oth nondisplaced dens fracture, subs for fx w routn heal"
+447,447,Joelie,"Oth injury of vein at forearm level, left arm, init encntr"
+448,448,Hester,"Other superficial bite of right ear, initial encounter"
+449,449,Archibaldo,"Fracture of unsp part of left clavicle, init for opn fx"
+450,450,Tatiana,"Tox eff of corrosv acids and acid-like substnc, undet, sqla"
+451,451,Dedie,"Laceration w fb of unsp finger w/o damage to nail, sequela"
+452,452,Marcella,Leakage of carotid arterial graft (bypass)
+453,453,Carolyne,Vesical tenesmus
+454,454,Chico,"Cmplx tear of lat mensc, current injury, unsp knee, sequela"
+455,455,Gasper,"Poisoning by antiparkns drug/centr musc-tone depr, acc"
+456,456,Elke,Toxic optic neuropathy
+457,457,Raff,"Mech compl of cranial or spinal infusion catheter, init"
+458,458,Stephenie,"Torus fx upper end of unsp tibia, subs for fx w delay heal"
+459,459,Myrtice,"Intraop and postproc comp and disorders of ms sys, NEC"
+460,460,Constantine,"Other specified disorders of synovium and tendon, knee"
+461,461,Wade,"Unsp fracture of fourth lumbar vertebra, init for opn fx"
+462,462,Earl,"Nondisp fx of lateral epicondyl of unsp humer, 7thD"
+463,463,Brice,"Partial traumatic amputation of unsp great toe, init encntr"
+464,464,Sean,Adhesions and ankylosis of left temporomandibular joint
+465,465,Valry,"Unspecified fall, subsequent encounter"
+466,466,Mildred,"Villonodular synovitis (pigmented), hip"
+467,467,Yoshiko,"Charcot's joint, hip"
+468,468,Farah,"Toxic effect of cyanides, undetermined, initial encounter"
+469,469,Quent,Superficial frostbite of left arm
+470,470,Saba,"Poisoning by loop diuretics, intentional self-harm"
+471,471,Kristofor,Recreation area as place
+472,472,Shelia,Diffuse TBI w loss of consciousness of 31-59 min
+473,473,Cammi,"Path fx in neopltc dis, unsp site, subs for fx w nonunion"
+474,474,Symon,"Pasngr in pk-up/van inj in clsn w rail trn/veh in traf, subs"
+475,475,Nike,"Burn of first degree of right thigh, initial encounter"
+476,476,Joly,"Sltr-haris Type III physl fx low end humer, right arm, 7thP"
+477,477,Marysa,"Unsp superficial injury of left little finger, init encntr"
+478,478,Diarmid,Oth spon disrupt of anterior cruciate ligament of left knee
+479,479,Giuseppe,Cereb infrc due to unsp occls or stenos of unsp cereblr art
+480,480,Kippie,"Unsp physeal fracture of upper end of unsp femur, sequela"
+481,481,Berk,"Incomplete lesion of L2 level of lumbar spinal cord, subs"
+482,482,Orv,Rheu arthritis w rheu factor of right hip w/o org/sys involv
+483,483,Aleen,Posterior subluxation and disloc of proximal end of tibia
+484,484,Lauretta,Corrosion of second degree of forearm
+485,485,Calvin,"Nondisplaced comminuted fracture of shaft of ulna, unsp arm"
+486,486,Avril,"Oth incomplete lesion at C2, subs"
+487,487,Janela,"Oth physl fx lower end unsp fibula, subs for fx w malunion"
+488,488,Jacky,"Fall on board canoe or kayak, initial encounter"
+489,489,Nina,"Strain extn musc/fasc/tend l mid finger at wrs/hnd lv, subs"
+490,490,Jessee,Other chronic pancreatitis
+491,491,Field,"Nondisp transverse fx unsp patella, 7thC"
+492,492,Phedra,"Complete placenta previa with hemorrhage, first trimester"
+493,493,Torie,"Sltr-haris Type I physeal fx upper end of right tibia, init"
+494,494,Elisha,Tay-Sachs disease
+495,495,Shaine,Unspecified injury at T2-T6 level of thoracic spinal cord
+496,496,Alard,"Underdosing of other opioids, initial encounter"
+497,497,Freeman,"Unspecified fracture of lower end of left femur, sequela"
+498,498,Ricki,"Displ commnt fx shaft of rad, l arm, 7thF"
+499,499,Maris,"Laceration of extn musc/fasc/tend at forearm level, left arm"
+500,500,Bruno,Drown due to being washed overboard from sailboat
+501,501,Kin,"Nondisp bimalleol fx unsp low leg, 7thF"
+502,502,Gare,"Terorsm w chemical weapons, publ sfty offcl injured, sequela"
+503,503,Faustine,"Person outsd 3-whl mv inj in clsn w pedl cyc nontraf, sqla"
+504,504,Venita,"Unsp inj muscles and tendons at ank/ft level, r foot, subs"
+505,505,Immanuel,Corrosion of third degree of unspecified elbow
+506,506,Kai,"Superficial foreign body of right forearm, initial encounter"
+507,507,Roth,"Displ transverse fx shaft of r fibula, 7thQ"
+508,508,Rusty,"Nondisp fx of prox phalanx of l less toe(s), 7thG"
+509,509,Brigida,Prsn brd/alit a car injured in collision w hv veh
+510,510,Ram,"Sltr-haris Type III physl fx upr end r tibia, 7thK"
+511,511,Madelin,"Leakage of heart valve prosthesis, subsequent encounter"
+512,512,Hobart,"Driver of hv veh injured in clsn w unsp mv in traf, subs"
+513,513,Pier,Sprain of calcaneofibular ligament of right ankle
+514,514,Henka,"Rheumatoid arthritis, unspecified"
+515,515,Consolata,Hypersecretion of calcitonin
+516,516,Samuele,"Other superficial bite of left shoulder, sequela"
+517,517,Ludwig,"Lacerat flexor musc/fasc/tend l rng fngr at wrs/hnd lv, init"
+518,518,Mable,Exposure to natural radiation
+519,519,Osborne,"Displ transverse fx shaft of r fibula, 7thC"
+520,520,Stacy,Nondisp fx of middle third of navicular bone of right wrist
+521,521,Wilmar,"Jump/div into swim pool strk bottom causing oth injury, init"
+522,522,Mortimer,Other fracture of left patella
+523,523,Brit,"Subluxation of T2/T3 thoracic vertebra, subsequent encounter"
+524,524,Marietta,"Burn due to localized fire on board sailboat, sequela"
+525,525,Heddie,Wedge compression fracture of first lumbar vertebra
+526,526,Augie,"Breakdown (mechanical) of other vascular grafts, subs encntr"
+527,527,Jerome,"Path fracture, left finger(s), subs for fx w delay heal"
+528,528,Ware,"Oth superfic bite of unsp eyelid and periocular area, init"
+529,529,Gypsy,"Subluxation of unsp interphaln joint of l rng fngr, sequela"
+530,530,Madison,Acute and subacute allergic otitis media (mucoid) (serous)
+531,531,Viviana,"Pnctr w fb of right lesser toe(s) w damage to nail, sequela"
+532,532,Mable,Transient acantholytic dermatosis [Grover]
+533,533,Dione,"Obstructed labor due to face presentation, fetus 4"
+534,534,Darren,"Person injured in collision betw car and 2/3-whl mv, nontraf"
+535,535,Dev,"Path fx in neopltc disease, l ulna, subs for fx w malunion"
+536,536,Jacky,"Unsp injury of right innominate or subclavian artery, subs"
+537,537,Holly-anne,"Diffuse TBI w LOC >24 hr w return to consc levels, sequela"
+538,538,Brynn,"Nondisp transverse fx shaft of unsp femr, 7thC"
+539,539,Zorina,Oth dis of the bld/bld-form org/immun mechnsm comp the puerp
+540,540,Averill,"Open bite, left hip, sequela"
+541,541,Duffie,"Unsp fx shaft of right femur, init for opn fx type I/2"
+542,542,Trixi,"Fx unsp part of r clavicle, subs for fx w delay heal"
+543,543,Spence,Malformation of placenta
+544,544,Nikaniki,Crushing injury of shoulder and upper arm
+545,545,Pippa,"Inj oth blood vessels at forearm level, unsp arm, subs"
+546,546,Ardine,"Disp fx of prox phalanx of r great toe, 7thD"
+547,547,Yoshi,"Nondisp midcervical fx l femr, 7thE"
+548,548,Augustine,Other disorders of white blood cells
+549,549,Emmy,Corrosion of first degree of neck
+550,550,Josee,"Ped on foot injured in collision w skateboarder, sequela"
+551,551,Alayne,"Disp fx of base of nk of l femr, 7thD"
+552,552,Adelina,"Respiratory condition of newborn, unspecified"
+553,553,Annamaria,"Poisoning by other antidepressants, assault, sequela"
+554,554,Englebert,"Dislocation of tarsometatarsal joint of right foot, init"
+555,555,Nevil,"Laceration of blood vessels at ank/ft level, right leg, init"
+556,556,Melitta,"Inj flexor musc/fasc/tend l idx fngr at wrs/hnd lv, sequela"
+557,557,Ellie,"Gastric contents in larynx causing other injury, subs encntr"
+558,558,Jannelle,"Unsp fracture of second metacarpal bone, left hand, init"
+559,559,Estrella,"Obstructed labor due to brow presentation, fetus 1"
+560,560,Viole,Nondisp associated transv/post fracture of right acetabulum
+561,561,Dee dee,"Lac w/o fb of unsp external genital organs, female, init"
+562,562,Margery,War operations involving biological weapons
+563,563,Florinda,Bathroom in oth non-institutional residence as place
+564,564,Clio,"Poisoning by unspecified psychostimulants, assault"
+565,565,Yuri,Cyclothymic disorder
+566,566,Brandon,"Injury of nerves at shoulder and upper arm level, unsp arm"
+567,567,Isaak,Anaphylactic reaction due to other serum
+568,568,Darcey,"Nondisplaced fracture of lunate, left wrist, sequela"
+569,569,Zelda,"Laceration of ulnar artery at wrs/hnd lv of unsp arm, subs"
+570,570,Nikaniki,"Nondisp commnt suprcndl fx w/o intrcndl fx unsp humer, 7thD"
+571,571,Joelly,NIHSS score 7
+572,572,Zonda,"Injury of ulnar nerve at forearm level, unsp arm, init"
+573,573,Tucker,Lateral dislocation of right patella
+574,574,Lelia,"Disp fx of dist phalanx of right great toe, init for opn fx"
+575,575,Robinetta,"Lacerat unsp musc/fasc/tend at wrs/hnd lv, unsp hand, init"
+576,576,Melosa,"Nondisplaced dome fracture of left talus, init for clos fx"
+577,577,Uriah,"Other secondary chronic gout, unspecified site, with tophus"
+578,578,Paddy,"Disp fx of lateral malleolus of unsp fibula, 7thQ"
+579,579,Eleen,"Exposure to other specified smoke, fire and flames, sequela"
+580,580,Blane,"Unspecified fracture of left pubis, sequela"
+581,581,Aurlie,"Spontaneous rupture of extensor tendons, unsp ankle and foot"
+582,582,Brendis,"Unsp fx upr end unsp rad, 7thJ"
+583,583,Thornton,"Laceration of extn musc/fasc/tend at forearm level, unsp arm"
+584,584,Colver,"Car driver inj in clsn with statnry object nontraf, sequela"
+585,585,Jsandye,"Type B blood, Rh negative"
+586,586,Merv,Fntl lb and exec fcn def following other cerebvasc disease
+587,587,Tedra,"Abrasion of unsp external genital organs, female, sequela"
+588,588,Verene,"Displaced avulsion fracture of unsp ilium, init for opn fx"
+589,589,Flori,Female with more than three X chromosomes
+590,590,Annabal,"Sltr-haris Type IV physeal fx unspecified calcaneus, 7thD"
+591,591,Gerard,"Dislocation of T12/L1 thoracic vertebra, sequela"
+592,592,Shelby,"Toxic effect of venom of caterpillars, assault, sequela"
+593,593,Corbie,"Unspecified corneal neovascularization, left eye"
+594,594,Ravid,"Other assault by drowning and submersion, subs encntr"
+595,595,Ula,"Nondisp fx of hook pro of hamate bone, r wrs, 7thD"
+596,596,Kiel,"Bitten by squirrel, initial encounter"
+597,597,Allard,"Superficial foreign body, right foot, subsequent encounter"
+598,598,Isiahi,"Poisoning by tetracyclines, accidental (unintentional)"
+599,599,Omero,"Torus fracture of lower end of unsp tibia, init for clos fx"
+600,600,Darcey,Fracture (avulsion) of lateral epicondyle of humerus
+601,601,Greggory,"Burn of unspecified degree of back of left hand, subs encntr"
+602,602,Jacky,Spinal osteochondrosis
+603,603,Justine,Pain in right hand
+604,604,Gabrielle,"Nondisp seg fx shaft of ulna, unsp arm, 7thG"
+605,605,Regan,"Poisoning by histamine H2-receptor blockers, self-harm, subs"
+606,606,Scottie,"Displ seg fx shaft of ulna, unsp arm, 7thK"
+607,607,Roma,Moderate laceration of pancreas
+608,608,Stepha,"Milt op involving intentl restrict of air/airwy, milt, init"
+609,609,Wendell,"Labor and del comp by oth cord entangle, w/o comprsn, unsp"
+610,610,Henri,"Poisoning by unsp systemic antibiotic, self-harm, init"
+611,611,Gage,"Unsp fx r low leg, subs for opn fx type I/2 w routn heal"
+612,612,Corbett,"Pedl cyclst injured in trnsp acc w military vehicle, init"
+613,613,Rhoda,"Unsp inj extn musc/fasc/tend r thm at wrs/hnd lv, sequela"
+614,614,Shawnee,Postradiation kyphosis
+615,615,Sindee,"Nondisp fx of distal phalanx of left ring finger, sequela"
+616,616,Inna,Septicemic plague
+617,617,Saudra,Benign neoplasm of left cornea
+618,618,Barton,"Nondisp fx of navicular of r foot, subs for fx w malunion"
+619,619,Edeline,"Pathological fracture in other disease, unsp site, sequela"
+620,620,Augustin,"Incomplete lesion of L2 level of lumbar spinal cord, subs"
+621,621,Wolf,Unspecified jaundice
+622,622,Emeline,"Unspecified open wound of scalp, sequela"
+623,623,Rossy,"Poisoning by antidiarrheal drugs, assault, sequela"
+624,624,Justine,"Unsp opn wnd abd wall, l upr q w/o penet perit cav, init"
+625,625,Juliana,Other specified injury of plantar artery of unspecified foot
+626,626,Pip,"Injury of median nerve at wrs/hnd lv of left arm, init"
+627,627,Alma,Superficial foreign body of right shoulder
+628,628,Courtney,Cercarial dermatitis
+629,629,Andonis,"Fall from snowboard, initial encounter"
+630,630,Camille,"Partial traumatic amp at knee level, r low leg, sequela"
+631,631,Ame,"Calcium deposit in bursa, multiple sites"
+632,632,Vladimir,Congenital night blindness
+633,633,Janessa,"Other synovitis and tenosynovitis, unspecified forearm"
+634,634,Briny,"Struck by volleyball, subsequent encounter"
+635,635,Iago,Type 2 diabetes mellitus with hyperglycemia
+636,636,Bax,"Corrosion of unsp degree of back of unsp hand, sequela"
+637,637,Nicoli,"External constriction, unspecified hip, initial encounter"
+638,638,Elyn,"Nondisp commnt fx shaft of l tibia, 7thM"
+639,639,Courtnay,"Oth fracture of unsp talus, subs for fx w nonunion"
+640,640,Merwin,Other physeal fracture of upper end of unspecified tibia
+641,641,Sarette,"Burn of third degree of left upper arm, initial encounter"
+642,642,Burke,Underdosing of unspecified antidepressants
+643,643,Correna,"Jump/div into oth water striking bottom causing drown, init"
+644,644,Hedda,"Blister (nonthermal), left foot, initial encounter"
+645,645,Abe,"Other nondisp fx of lower end of unsp humerus, sequela"
+646,646,Noreen,"Unsp open wound of right thumb w/o damage to nail, init"
+647,647,Salvatore,"Personal history of malig neoplm of trachea, bronc and lung"
+648,648,Ernestine,"Laceration of stomach, sequela"
+649,649,Crin,"Prolymphocytic leukemia of B-cell type, in relapse"
+650,650,Gasper,Disseminated coccidioidomycosis
+651,651,Linnet,Hemolytic disease of newborn
+652,652,Ephraim,"Poisoning by amphetamines, intentional self-harm, init"
+653,653,Lebbie,"Complete traumatic transphalangeal amputation of thmb, init"
+654,654,Glenda,"Fracture of xiphoid process, subs for fx w nonunion"
+655,655,Galvan,"War op w explosn due to acc disch of own munit, civ, subs"
+656,656,Henrik,"Oth fracture of right talus, init encntr for closed fracture"
+657,657,Rodi,"Oth intartic fx lower end r rad, init for opn fx type 3A/B/C"
+658,658,Glenden,"Oth fx shaft of rad, r arm, 7thQ"
+659,659,Jerry,"Ant disp fx of sternal end unsp clavicle, 7thP"
+660,660,Quintilla,"Congenital ichthyosis, unspecified"
+661,661,Mahmud,"Oth extrartic fx low end l rad, 7thE"
+662,662,Cosmo,"Lead-induced chronic gout, hip"
+663,663,Jilly,"Disp fx of l tibial spin, 7thQ"
+664,664,Nydia,"Diseases of the dgstv sys comp pregnancy, second trimester"
+665,665,Fae,"Other subluxation of unspecified wrist and hand, init encntr"
+666,666,Sonni,"Artificial opening status, unspecified"
+667,667,Gian,"Laceration of ulnar artery at wrs/hnd lv of right arm, init"
+668,668,Shanda,"Unspecified open wound of right breast, sequela"
+669,669,Pooh,"Nondisp fx of distal phalanx of unsp great toe, init"
+670,670,Jdavie,"Muscle wasting and atrophy, NEC, left upper arm"
+671,671,Allsun,Unsp malignant neoplasm of skin of unspecified part of face
+672,672,Arvy,"Infect/inflm reaction due to oth internal joint prosth, subs"
+673,673,Bern,"Other reactive arthropathies, left ankle and foot"
+674,674,Jervis,"Toxic eff of cntct w oth venom marine animals, slf-hrm, init"
+675,675,Joice,"Persons encntr health serv for oth cnsl and med advice, NEC"
+676,676,Paco,"Major laceration of left carotid artery, initial encounter"
+677,677,Franz,"Disp fx of shaft of unsp MC bone, subs for fx w nonunion"
+678,678,Dasya,"Periprosth fracture around unsp internal prosth joint, init"
+679,679,Prentiss,"Disp fx of body of scapula, l shldr, 7thD"
+680,680,Nicky,"Nondisp fx of prox 3rd of navic bone of l wrs, 7thK"
+681,681,Prudi,"Toxic effect of venom of black widow spider, undet, sequela"
+682,682,Nicolas,"Fracture of ramus of mandible, unspecified side, 7thB"
+683,683,Roze,"Flail joint, unspecified elbow"
+684,684,Orbadiah,Unsp soft tissue disorder related to use/pressure of thigh
+685,685,Melisa,Occup of special construction vehicle injured nontraf
+686,686,Gerik,"Disp fx of base of nk of r femr, 7thD"
+687,687,Rolland,"Miscellaneous ob/gyn devices assoc w incdt, NEC"
+688,688,Rowland,"Unsp fx shaft of r femr, 7thN"
+689,689,Riane,"Oth postproc comp and disorders of the ear/mastd, NEC"
+690,690,Nealy,"Contusion of body of pancreas, subsequent encounter"
+691,691,Ophelia,"Displ apophyseal fx r femr, 7thJ"
+692,692,Sergei,"Displacement of other bone devices, implants and grafts"
+693,693,Derrik,"Other reactive arthropathies, unspecified elbow"
+694,694,Kitty,"Superior glenoid labrum lesion of right shoulder, subs"
+695,695,Maureene,"Poisoning by predom beta-adrenocpt agonists, accidental"
+696,696,Gustav,Other contact with shark
+697,697,Thaxter,"Toxic effect of petroleum products, assault, init encntr"
+698,698,Charlie,"Toxic effect of ingested mushrooms, assault, subs encntr"
+699,699,Audi,Diab d/t undrl cond w severe nonprlf diab rtnop w mclr edema
+700,700,Nat,Unsp systemic antibiotic
+701,701,Fionna,"Corrosion of third degree of oth site of trunk, init encntr"
+702,702,Fulvia,"Unsp fx shaft of unsp ulna, init for opn fx type I/2"
+703,703,Nikolos,"Disp fx of body of hamate bone, unsp wrist, init for opn fx"
+704,704,Marlo,"External constriction of right back wall of thorax, subs"
+705,705,Gisella,"Disp fx of post column of l acetab, subs for fx w routn heal"
+706,706,Hymie,Frontal lobe and exec fcn def following cerebral infarction
+707,707,Wynn,"Unsp traum nondisp spondylolysis of fifth cervcal vert, sqla"
+708,708,Smitty,Contusion of left great toe without damage to nail
+709,709,Clair,"Displaced apophyseal fx r femur, init for opn fx type 3A/B/C"
+710,710,Sharline,"Disp fx of ant wall of r acetab, subs for fx w delay heal"
+711,711,Joshuah,Abnormalities of breathing
+712,712,Wynny,Other cardiac arrhythmias
+713,713,Nelia,Contact with sharp glass
+714,714,Nollie,Other injuries of left eye and orbit
+715,715,Inglis,"Oth fx upr & low end l fibula, 7thE"
+716,716,Ross,Kaposi's sarcoma of lung
+717,717,Isadora,"Nondisp intartic fx unsp calcaneus, subs for fx w routn heal"
+718,718,Gwenni,Cervicofacial actinomycosis
+719,719,Lucy,"Laceration of musc/fasc/tend long head of biceps, right arm"
+720,720,Urson,"Crushing injury of left ring finger, subsequent encounter"
+721,721,Carin,"Burn of second degree of hand, unspecified site"
+722,722,Mellisent,Other specified urinary incontinence
+723,723,Axel,"Oth athscl type of bypass of the extremities, right leg"
+724,724,Gertrud,"War operations involving oth conventl warfare, milt, init"
+725,725,Judi,Contus/lac r cereb w LOC w death due to oth cause bf consc
+726,726,Tammi,"Disp fx of nk of r rad, 7thN"
+727,727,Bentley,Family history of other conditions
+728,728,Alysa,Fall into natural body of water strk bottom causing drown
+729,729,Elissa,"Nondisp commnt fx shaft of humer, l arm, 7thP"
+730,730,Rodney,"Oth accident on oth roll-type pedestrian conveyance, sequela"
+731,731,Ashlee,Other intentional self-harm by crashing of motor vehicle
+732,732,Emery,Athscl bypass of cor art of txplt heart w unsp ang pctrs
+733,733,Farrand,Displacement of other vascular grafts
+734,734,Ruby,Other congenital malformations of ribs
+735,735,Boyd,"Displ commnt fx shaft of l tibia, 7thG"
+736,736,Stanleigh,"Oth soft tissue disorders related to use/pressure, unsp leg"
+737,737,Madge,"Displaced longitudinal fracture of left patella, init"
+738,738,Shannen,"Contusion of right middle finger w/o damage to nail, subs"
+739,739,Nathanael,Corrosion of first deg mult sites of right wrist and hand
+740,740,Gerladina,Rheu arthritis w rheumatoid factor of hip w/o org/sys involv
+741,741,Dennis,"Corros 3rd deg mu left fingers (nail), including thumb, subs"
+742,742,Nara,Calcium-channel blockers
+743,743,Baudoin,"Oth disp fx of base of 1st MC bone, r hand, init for opn fx"
+744,744,Lotty,"Unsp physeal fracture of lower end of right tibia, sequela"
+745,745,Sebastian,"Exposure to other animate mechanical forces, subs encntr"
+746,746,Caryl,"Inj msl/tnd lng flxr msl of toe at ank/ft level, unsp foot"
+747,747,Simeon,"Postural kyphosis, thoracic region"
+748,748,Somerset,"Unspecified disorder of ear, bilateral"
+749,749,Bernie,"Puncture wound w/o foreign body of thyroid gland, init"
+750,750,Darbee,"Anterior dislocation of lens, left eye"
+751,751,Kippie,"Other secondary gout, left hip"
+752,752,Fremont,"Ped w convey injured in collision w hv veh nontraf, sequela"
+753,753,Aubrey,Displaced pilon fracture of left tibia
+754,754,Yasmeen,"Laceration of blood vessels at forarm lv, right arm, sequela"
+755,755,Catharine,"Fracture of manubrium, subs for fx w delay heal"
+756,756,Ambrosius,"Chronic peptic ulcer, site unsp, w/o hemorrhage or perf"
+757,757,Marcello,Orchard as the place of occurrence of the external cause
+758,758,Goddart,"Nondisp fx of triquetrum bone, unsp wrist, init for clos fx"
+759,759,Kathye,Adverse effect of enzymes
+760,760,Benji,"Pnctr w fb of l frnt wl of thorax w/o penet thor cav, init"
+761,761,Adrian,"Oth complications following immunization, NEC, init"
+762,762,Burg,"Wedge comprsn fx first thor vert, subs for fx w routn heal"
+763,763,Moyra,Malignant neoplasm of right conjunctiva
+764,764,Fayina,"Open bite of unsp frnt wall of thrx w/o penet thor cav, sqla"
+765,765,Killie,Partial traumatic MCP amputation of left little finger
+766,766,Bobbi,Diseases of the respiratory system compl preg/chldbrth
+767,767,Binnie,"Nondisp fx of neck of first MC bone, l hand, init for opn fx"
+768,768,Sean,Unspecified open wound of left shoulder
+769,769,Terri,"Ganglion, left shoulder"
+770,770,Bat,"Chronic gout due to renal impairment, left hand, with tophus"
+771,771,Opaline,"Fx unsp prt of nk of l femr, 7thN"
+772,772,Alisha,"Abrasion, right hip, subsequent encounter"
+773,773,Dottie,"Abrasion, left thigh"
+774,774,Roberto,"Displ Maisonneuve's fx l leg, 7thH"
+775,775,Mart,"Klinefelter syndrome, male with more than two X chromosomes"
+776,776,Way,Zoster scleritis
+777,777,Marya,Inhalant related disorders
+778,778,Alano,"Chronic myringitis, unspecified ear"
+779,779,Elga,"Person outsd hv veh inj in clsn w rail trn/veh nontraf, subs"
+780,780,Arleta,Displaced fracture of medial phalanx of right lesser toe(s)
+781,781,Emelda,Cerebellar stroke syndrome
+782,782,Mace,Acquired absence of left shoulder
+783,783,Levey,"Poisoning by other hormone antagonists, assault, sequela"
+784,784,Stormie,"Inj musc/tend the rotator cuff of right shoulder, sequela"
+785,785,Jessalin,"Poisoning by smallpox vaccines, intentional self-harm, init"
+786,786,Wilbur,Other congenital malformations of spinal cord
+787,787,Ros,"Retained (old) magnetic fb in ant chamber, right eye"
+788,788,Scarlet,"Unsp injury of musc/fasc/tend at wrs/hnd lv, left hand"
+789,789,Kirby,"Person outside bus inj in clsn w pedl cyc nontraf, sequela"
+790,790,Teador,"Oth injury of unspecified internal jugular vein, subs encntr"
+791,791,Gaspar,"Diab with moderate nonp rtnop with macular edema, left eye"
+792,792,Bryana,"Refractive amblyopia, unspecified eye"
+793,793,Madonna,"Lead-induced gout, unspecified site"
+794,794,Winna,"Corrosion of unspecified degree of left ear, sequela"
+795,795,Celie,"Chondromalacia, other site"
+796,796,Madelaine,"Strain of flexor musc/fasc/tend r thm at forarm lv, subs"
+797,797,Solomon,"Nondisp fx of nk of 3rd MC bone, r hand, 7thK"
+798,798,Gretel,"Oth fall same lev due to collision w another person, sequela"
+799,799,Griswold,"Thoracic aortic aneurysm, ruptured"
+800,800,Armand,"Sprain of interphalangeal joint of left index finger, subs"
+801,801,Urbano,Contact with agricultural machinery
+802,802,Neal,"ABO incompatibility w acute hemolytic transfs react, subs"
+803,803,Robbert,Sprain of unspecified parts of lumbar spine and pelvis
+804,804,Consalve,"Viral wart, unspecified"
+805,805,Domini,Postproc hemor of a dgstv sys org fol a dgstv sys procedure
+806,806,Rivalee,Idiopathic aseptic necrosis of right humerus
+807,807,Shantee,Open wound of abdominal wall w/o penetration into perit cav
+808,808,Golda,"Nondisp suprcndl fx w/o intrcndl extn low end l femr, 7thD"
+809,809,Berenice,"Crush betw fish boat and oth wtrcrft/obj due to clsn, sqla"
+810,810,Yevette,"Toxic effect of oth alcohols, intentional self-harm, init"
+811,811,Nichole,"Corrosion of second degree of nose (septum), subs encntr"
+812,812,Eryn,"Laceration of stomach, sequela"
+813,813,Melisandra,"Displ transverse fx shaft of r tibia, 7thH"
+814,814,Verene,"Burn of third degree of buttock, sequela"
+815,815,Dion,"External constriction of right middle finger, init encntr"
+816,816,Deanne,"Passenger in hv veh injured in clsn w pedl cyc in traf, init"
+817,817,Galina,"Pnctr w fb of right great toe w damage to nail, sequela"
+818,818,Mufinella,"Nondisp transverse fracture of right acetabulum, sequela"
+819,819,Frazer,"Unspecified superficial injury of right wrist, init encntr"
+820,820,Riva,"Oth disrd of amniotic fluid and membranes, third trimester"
+821,821,Dewey,"Stiffness of hand, not elsewhere classified"
+822,822,Maryanna,"Juvenile osteochondrosis, hand"
+823,823,Nadeen,"Nondisp oblique fx shaft of r fibula, 7thN"
+824,824,Mahalia,Intraop hemor/hemtom of unsp eye and adnexa comp oth proc
+825,825,Con,Marfan's syndrome with cardiovascular manifestations
+826,826,Irene,"Laceration of unsp quadriceps musc/fasc/tend, subs"
+827,827,Caresse,Unspecified injury of unspecified hip
+828,828,Lisa,"Driver of hv veh injured in clsn w 2/3-whl mv in traf, init"
+829,829,Phebe,"Other injury of ureter, sequela"
+830,830,Khalil,"Leakage of heart valve prosthesis, sequela"
+831,831,Starlene,"Food in bronchus causing other injury, sequela"
+832,832,Gavan,"Oth fx right femur, subs for opn fx type I/2 w delay heal"
+833,833,Flin,Toxic effect of alcohol
+834,834,Kippie,"Erosion of other implanted mesh to organ or tissue, sequela"
+835,835,Claude,"Disturbance of cerebral status of newborn, unspecified"
+836,836,Luelle,"Nondisp midcervical fx r femr, 7thN"
+837,837,Addy,"Machinery accident on board sailboat, initial encounter"
+838,838,Elsa,"Blister (nonthermal) of right shoulder, subsequent encounter"
+839,839,Wyatan,"Lesion of femoral nerve, unspecified lower limb"
+840,840,Burt,"Injury of trigeminal nerve, left side, initial encounter"
+841,841,Anestassia,"Triplet preg w two or more monochorionic fetuses, third tri"
+842,842,Sileas,Displaced transverse fracture of shaft of unspecified radius
+843,843,Therine,"Disp fx of neck of unsp talus, subs for fx w routn heal"
+844,844,Neilla,"Toxic effect of arsenic and its compounds, assault"
+845,845,Leena,"Ped on sktbrd injured in collision w pedl cyc, unsp, subs"
+846,846,Eadmund,Occupant of rail trn/veh injured in collisn/hit by roll stok
+847,847,Lurette,"Malignant neoplasm of upper-inner quadrant of breast, female"
+848,848,Clementina,"Foreign body granuloma of soft tissue, NEC, left hand"
+849,849,Melita,Drown due to fall off (nonpowered) inflatable craft
+850,850,Pepita,"Laceration w/o fb of abd wall, l upr q w penet perit cav"
+851,851,Benn,Chronic venous hypertension w inflammation of r low extrem
+852,852,Rosene,"Mixed cellularity Hodgkin lymphoma, lymph nodes mult site"
+853,853,Bary,"Adverse effect of anterior pituitary hormones, sequela"
+854,854,Ermin,"Pnctr w fb of right great toe w/o damage to nail, subs"
+855,855,Iggy,Displaced pilon fracture of right tibia
+856,856,Raynard,Drug induced subacute dyskinesia
+857,857,Brittaney,"Unsp physeal fracture of upper end of right fibula, sequela"
+858,858,Anny,"Abrasion of unspecified front wall of thorax, subs encntr"
+859,859,Pansy,"Contusion of right lesser toe(s) w/o damage to nail, init"
+860,860,Hardy,Strain of flexor musc/fasc/tend thumb at forearm level
+861,861,Lauretta,Dining room in oth residential institution as place
+862,862,Jarrod,"Other specified dorsopathies, thoracolumbar region"
+863,863,Jilly,"Bucket-hndl tear of lat mensc, crnt injury, r knee, sequela"
+864,864,Kristien,Psychological abuse complicating childbirth
+865,865,Betty,"Asphyx d/t mech thrt to breathe d/t oth cause, slf-hrm, init"
+866,866,Britni,"Burn of first deg mult fingers (nail), not including thumb"
+867,867,Agustin,Contact with unspecified agricultural machinery
+868,868,Matias,Burns of 70-79% of body surface w 10-19% third degree burns
+869,869,Idelle,"Lac w/o fb of abd wall, left lower q w/o penet perit cav"
+870,870,Roana,Newborn affected by unspecified maternal condition
+871,871,Codie,Aphonia
+872,872,Lynn,"Nondisp spiral fx shaft of unsp fibula, 7thR"
+873,873,Stephen,"Poisoning by unsp psychodysleptics, self-harm, init"
+874,874,Deborah,Neonatal jaundice due to bleeding
+875,875,Montague,"Insect bite of unsp front wall of thorax, sequela"
+876,876,Syman,"Burn of unsp deg mult right fingers (nail), including thumb"
+877,877,Ashley,"Unsp fx shaft of unsp fibula, 7thJ"
+878,878,Bab,"Frostbite with tissue necrosis of left foot, subs encntr"
+879,879,Halsey,"Nondisp fx of distal pole of navicular bone of r wrist, init"
+880,880,Alejandra,"Zygomatic fracture, left side, 7thD"
+881,881,Luce,"Other specified fracture of left pubis, sequela"
+882,882,Remus,"Laceration w/o fb of l idx fngr w/o damage to nail, sequela"
+883,883,Benjy,"Oth physl fx lower end unsp fibula, subs for fx w malunion"
+884,884,Elnore,"Stable burst fracture of third lumbar vertebra, init"
+885,885,Tedie,"Diab with moderate nonp rtnop with macular edema, left eye"
+886,886,Desiree,Legal intervention involving unspecified blunt objects
+887,887,Tallie,"Auditory recruitment, bilateral"
+888,888,Clea,"Partial loss of teeth due to trauma, class III"
+889,889,Ruy,"Injury of accessory nerve, left side, initial encounter"
+890,890,Cordula,Nondisplaced fracture of medial malleolus of right tibia
+891,891,Daune,"Displ spiral fx shaft of unsp femr, 7thM"
+892,892,Violante,"Fracture of body of sternum, subs for fx w nonunion"
+893,893,Shane,Injury of unspecified blood vessel at hip and thigh level
+894,894,Hastings,"Disp fx of dist phalanx of unsp less toe(s), init for opn fx"
+895,895,Norri,"Lacerat muscles and tendons at ank/ft level, l foot, sequela"
+896,896,Ogdan,"Infect/inflm react due to int fix of unsp bone of leg, subs"
+897,897,Conn,"Keratopathy (bullous aphakic) following cataract surgery, bi"
+898,898,Lawry,"Dislocation of C6/C7 cervical vertebrae, subs encntr"
+899,899,Demetra,"Poisn by predom alpha-adrenocpt agonists, self-harm, subs"
+900,900,Mateo,"Hemarthrosis, elbow"
+901,901,Tildie,"Sprain of radiocarpal joint of unsp wrist, subs encntr"
+902,902,Gwyn,"Nondisp fx of neck of scapula, r shoulder, init for opn fx"
+903,903,Adena,"Open bite, right elbow, subsequent encounter"
+904,904,Terrel,"Shoulder lesion, unspecified, right shoulder"
+905,905,Eran,"Disp fx of med malleolus of unsp tibia, 7thC"
+906,906,Burk,"Nexdtve age-related mclr degn, bilateral, early dry stage"
+907,907,Mitch,"Lacerat extn musc/fasc/tend r mid finger at forarm lv, sqla"
+908,908,Kimberley,"Stress fracture, left foot, initial encounter for fracture"
+909,909,Germaine,"Displ avulsion fx tuberosity of l calcaneus, init for opn fx"
+910,910,Melisent,Traum hemor right cerebrum w/o loss of consciousness
+911,911,Currey,"Nondisp fx of greater trochanter of r femr, 7thC"
+912,912,Ray,"Corros 3rd deg mu left fingers (nail), including thumb, subs"
+913,913,Kimberli,"Displ seg fx shaft of unsp fibula, 7thN"
+914,914,Gladi,"Poisoning by digestants, undetermined, initial encounter"
+915,915,Archambault,"Nondisp commnt fx shaft of unsp tibia, 7thH"
+916,916,Nydia,"Anterior dislocation of left ulnohumeral joint, sequela"
+917,917,Jayson,"Strain of musc/tend at lower leg level, unsp leg, init"
+918,918,Terza,"Driver of hv veh injured in nonclsn trnsp acc in traf, subs"
+919,919,Nobe,"Laceration of ulnar artery at forarm lv, left arm, sequela"
+920,920,Gracie,"Disp fx of unsp tibial spine, init for opn fx type 3A/B/C"
+921,921,Sebastien,"Ischemic optic neuropathy, left eye"
+922,922,Wiley,"Inj flexor musc/fasc/tend l idx fngr at wrs/hnd lv, init"
+923,923,Marji,"Striking against oth object w subsequent fall, subs encntr"
+924,924,Inesita,Accessory ovary
+925,925,Dudley,"Pressr collapse of lung d/t anesth during preg, second tri"
+926,926,Ernestus,"Laceration of stomach, subsequent encounter"
+927,927,Carissa,"Adverse effect of unspecified systemic antibiotic, sequela"
+928,928,Carlene,"Osteitis deformans in neoplastic diseases, left shoulder"
+929,929,Dorisa,"Sltr-haris Type IV physeal fx phalanx of right toe, 7thB"
+930,930,Electra,"Complete traumatic amputation at elbow level, unsp arm"
+931,931,Gayel,"Path fx in oth disease, r ankle, subs for fx w nonunion"
+932,932,Idalia,"Nondisp fx of mid 3rd of navic bone of r wrs, 7thP"
+933,933,Benedicto,"Sltr-haris Type IV physl fx low end humer, unsp arm, 7thG"
+934,934,Anson,"Laceration of sigmoid colon, sequela"
+935,935,Eldon,"Displ oth extrartic fx l calcaneus, subs for fx w nonunion"
+936,936,Fredrick,"Traumatic arthropathy, left hand"
+937,937,Nat,"Inj extensor musc/fasc/tend right thumb at wrs/hnd lv, subs"
+938,938,Christel,Displaced spiral fracture of shaft of left fibula
+939,939,Diarmid,"Greenstick fx shaft of humer, unsp arm, 7thK"
+940,940,Danielle,Polyneuropathy due to other toxic agents
+941,941,Amie,"Unsp fx third MC bone, right hand, subs for fx w routn heal"
+942,942,Catharine,"Chronic osteomyelitis w draining sinus, left ankle and foot"
+943,943,Elden,Other specified acquired deformities of lower leg
+944,944,Jeanine,"Unspecified injury of right vertebral artery, sequela"
+945,945,Greta,"Displaced bicondylar fracture of right tibia, init"
+946,946,Bowie,"Burn of unsp degree of unspecified shoulder, subs encntr"
+947,947,Quint,"Other physeal fracture of phalanx of left toe, 7thG"
+948,948,Minetta,Corros 50-59% of body surface w 30-39% third degree corros
+949,949,Kerrill,"Nondisp pilon fx r tibia, 7thM"
+950,950,Kale,Congenital coxa valga
+951,951,Tiphany,"Bennett's fracture, left hand, init for clos fx"
+952,952,Feliza,"External constriction of nose, sequela"
+953,953,Casie,"Toxic effect of strychnine and its salts, accidental, init"
+954,954,Lisa,"Maternal care for oth isoimmun, unsp trimester, fetus 5"
+955,955,Parrnell,"Sltr-haris Type II physl fx upr end rad, unsp arm, 7thP"
+956,956,Thomas,Inj superficial vein at shoulder and upper arm level
+957,957,Myca,"Cont preg aft spon abort of one fts or more, third tri, unsp"
+958,958,Slade,"Occupant of anml-drn vehicle injured in clsn w stcar, init"
+959,959,Mari,Other physeal fracture of lower end of fibula
+960,960,Jarred,"Coma scale, best motor response, abnormal, 24+hrs"
+961,961,Mikaela,"Nondisp spiral fx shaft of l femr, 7thP"
+962,962,Seumas,Unspecified open wound of unspecified breast
+963,963,Matty,"Oth injury of anterior tibial artery, unsp leg, subs encntr"
+964,964,Fawn,"Adverse effect of antiviral drugs, initial encounter"
+965,965,Demetria,"Laceration of dorsal artery of right foot, subs encntr"
+966,966,Giuditta,"Unsp fracture of left ilium, subs for fx w delay heal"
+967,967,Pauly,Lateral dislocation of left patella
+968,968,Wright,"Complete traumatic amputation of left breast, sequela"
+969,969,Iorgos,"Oth fx l patella, subs for opn fx type 3A/B/C w delay heal"
+970,970,Harwell,Wedge compression fracture of unspecified thoracic vertebra
+971,971,Ellary,"Unsp fx shaft of unsp tibia, 7thE"
+972,972,Masha,"Unsp injury of blood vessel of left ring finger, subs encntr"
+973,973,Stewart,"Complete traumatic amputation of left forearm, level unsp"
+974,974,Boigie,"Contusion of unsp finger without damage to nail, subs encntr"
+975,975,Julita,Other fracture of right foot
+976,976,Breena,"Anterior subluxation of left radial head, subs encntr"
+977,977,Persis,"Basal cell carcinoma skin/ left lower limb, including hip"
+978,978,Abbe,Diastrophic dysplasia
+979,979,Ike,Foodborne Bacillus cereus intoxication
+980,980,Berkley,"Oth physl fx low end ulna, unsp arm, 7thD"
+981,981,Norman,Nondisplaced fracture of anterior column of left acetabulum
+982,982,Grannie,Dislocation of C3/C4 cervical vertebrae
+983,983,Mari,"Brkdwn unsp cardiac and vascular devices and implants, init"
+984,984,Vernice,"Activity, push-ups, pull-ups, sit-ups"
+985,985,Alix,"Unsp open wound of left lesser toe(s) w damage to nail, init"
+986,986,Jerome,Anaphylactic reaction due to shellfish (crustaceans)
+987,987,Simonne,"Other phakomatoses, not elsewhere classified"
+988,988,Ursola,Burn of unspecified degree of unspecified lower leg
+989,989,Dominic,"Lacerat extn musc/fasc/tend at forarm lv, left arm, sequela"
+990,990,Hermon,"Excessive crying of child, adolescent or adult"
+991,991,Orton,"Unsp superficial injury of right little finger, subs encntr"
+992,992,Wainwright,"Fx unsp prt of nk of l femr, 7thE"
+993,993,Nikolas,Idiopathic aseptic necrosis of tibia and fibula
+994,994,Kathye,"Unsp trochan fx r femr, 7thR"
+995,995,Chet,"Osteochondropathy, unspecified, unspecified hand"
+996,996,Erin,"Milt op involving explosion of marine mine, civilian"
+997,997,Pia,Other congenital malformations of penis
+998,998,Krystal,"Nondisp fx of medial epicondyle of r humerus, init"
+999,999,Shoshana,"Laceration of ulnar artery at forearm level, left arm, subs"
+1000,1000,Ward,Shigellosis

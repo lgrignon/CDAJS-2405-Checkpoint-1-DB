@@ -1,0 +1,1001 @@
+offer_id,company_id,job_title,description,city
+1,1,Accountant IV,Oth intraop cardiac functional disturb during oth surgery,Sanghan
+2,2,Sales Representative,Malingerer [conscious simulation],Porto-Novo
+3,3,Staff Scientist,"Hyphema, unspecified eye",Gyōda
+4,4,Associate Professor,"Contus/lac right cerebrum w LOC of 1-5 hrs 59 min, sequela",Penalva
+5,5,Structural Analysis Engineer,"Puncture wound with foreign body, right thigh, subs encntr",Berlin
+6,6,Web Developer II,"Chalcosis, left eye",Ilare
+7,7,Tax Accountant,Other gliding-type pedestrian conveyance accident,San Mateo
+8,8,Geological Engineer,"Displ Maisonneuve's fx left leg, subs for clos fx w nonunion",Candijay
+9,9,Civil Engineer,"Synovial hypertrophy, NEC, multiple sites",Babao
+10,10,Engineer I,Thrombosis due to internal orthopedic prosth dev/grft,Rychvald
+11,11,Developer III,"Burn of unspecified degree of unspecified upper arm, sequela",Shishan
+12,12,Quality Control Specialist,Self-harm by oth and unsp firearm and gun discharge,Pokachi
+13,13,Tax Accountant,Benign neoplasm of unspecified breast,Chulakivka
+14,14,General Manager,Legal intervention involving blunt objects,Chumphon
+15,15,Community Outreach Specialist,"Tox eff of corrosv acids & acid-like substnc, slf-hrm, init",Tunggaoen Timur
+16,16,Staff Accountant II,"Salter-Harris Type II physeal fracture of r calcaneus, 7thD",Mošorin
+17,17,Recruiting Manager,"Displ spiral fx shaft of unsp fibula, 7thD",Xiangyun
+18,18,Human Resources Assistant II,"Pnctr w/o fb of left lesser toe(s) w/o damage to nail, init",Xiazhai
+19,19,Civil Engineer,"Corrosion of unsp degree of unspecified shoulder, sequela",Isfara
+20,20,Registered Nurse,"Inj intrns musc/fasc/tend l mid finger at wrs/hnd lv, init",Mayo
+21,21,Physical Therapy Assistant,"Disp fx of unsp radial styloid pro, init for opn fx type I/2",Caicun
+22,22,Web Developer III,Dry eye syndrome of bilateral lacrimal glands,Espumoso
+23,23,Staff Accountant III,"Toxic effect of venom of N & S American snake, asslt, sqla",Pejek
+24,24,Research Associate,"Oth fracture of right acetabulum, init for opn fx",Colonia Yguazú
+25,25,Sales Associate,"Adolescent idiopathic scoliosis, cervical region",Quezalguaque
+26,26,Recruiting Manager,Major laceration of unspecified part of pancreas,Mehendiganj
+27,27,Software Engineer II,"Toxic effect of other specified substances, undetermined",Dve Mogili
+28,28,Physical Therapy Assistant,"Unsp opn wnd unsp bk wl of thorax w/o penet thor cav, init",As Salţ
+29,29,Systems Administrator III,"Puncture wound w/o foreign body of unsp breast, subs encntr",Yumendong
+30,30,Human Resources Manager,"Laceration of axillary or brachial vein, right side, init",Limoges
+31,31,Mechanical Systems Engineer,"Strain of extn musc/fasc/tend at forarm lv, unsp arm, init",Glafirovka
+32,32,Occupational Therapist,"Adverse effect of vaccines and biolg substances, sequela",Tawali
+33,33,Project Manager,"Unsp physeal fracture of upper end of radius, unsp arm, init",Lubei
+34,34,Nuclear Power Engineer,"Displ artic fx head of unsp femr, 7thE",San Carlos
+35,35,Recruiter,"Nondisp osteochon fx l patella, 7thG",Krasne
+36,36,Senior Editor,"Nondisp fx of med phalanx of r mid fngr, 7thD",Maonon
+37,37,Account Executive,"Unsp injury of great saphenous at hip and thi lev, right leg",Kāshmar
+38,38,Recruiter,"Nondisp fx of medial phalanx of right lesser toe(s), init",Uglegorsk
+39,39,Computer Systems Analyst IV,Convergence excess,Tanakbeak Daye
+40,40,Electrical Engineer,"Burn 3rd deg mu sites of right shldr/up lmb, except wrs/hnd",Bồng Sơn
+41,41,Nuclear Power Engineer,"Unspecified subluxation of unspecified knee, init encntr",Xianbao
+42,42,Programmer Analyst II,"Osteochondritis dissecans, unspecified knee",Zhishan
+43,43,Programmer Analyst I,"Crushing injury of right index finger, initial encounter",Pulorejo
+44,44,Desktop Support Technician,"Poisoning by predom alpha-adrenocpt agonists, undet, init",Sedinginan
+45,45,Analyst Programmer,"Accident to, on or involving ice yacht, sequela",Yecun
+46,46,Assistant Manager,"Insect bite (nonvenomous), unspecified knee, subs encntr",Serov
+47,47,Staff Accountant II,Military operations involving unsp destruction of aircraft,Maggotty
+48,48,Human Resources Manager,"Aneurysmal bone cyst, left shoulder",Santos Dumont
+49,49,Senior Developer,"Hallux rigidus, right foot",Charleville-Mézières
+50,50,Analyst Programmer,"Unspecified physeal fracture of left calcaneus, init",Villa Consuelo
+51,51,Structural Analysis Engineer,Accidental kick by another person,Pa Bon
+52,52,Graphic Designer,"Inj unsp blood vessel at wrist and hand of left arm, sequela",Itéa
+53,53,VP Quality Control,"Unsp infct of urinary tract in pregnancy, third trimester",La Libertad
+54,54,Business Systems Development Analyst,"Disp fx of nk of l rad, subs for opn fx type I/2 w malunion",Sanxiang
+55,55,Media Manager IV,"Unsp focal TBI w LOC >24 hr w/o ret consc w surv, sequela",Qādirpur Rān
+56,56,Biostatistician III,"Solitary bone cyst, unspecified ulna and radius",Jintian
+57,57,Food Chemist,"Superficial foreign body, unspecified great toe, subs encntr",Erie
+58,58,Occupational Therapist,"Cutaneous T-cell lymphoma, unsp, intra-abdominal lymph nodes",Ryazanskiy
+59,59,Business Systems Development Analyst,"Unspecified injury of right foot, subsequent encounter",San Felipe
+60,60,Statistician III,Embolism and thrombosis of arteries of the upper extremities,Zheshan
+61,61,Health Coach II,Unsp superficial injuries of right back wall of thorax,Orlovskiy
+62,62,Programmer III,"Accidental handgun discharge, sequela",Oslo
+63,63,Human Resources Assistant III,"Partial traumatic amp of unsp forearm, level unsp, sequela",Yanwang
+64,64,Nuclear Power Engineer,"Oth injury due to oth accident on board passenger ship, init",Yili
+65,65,Desktop Support Technician,"Nondisp commnt fx shaft of rad, unsp arm, 7thM",Ban Phue
+66,66,Computer Systems Analyst IV,"Driver injured in collision w unsp mv in traf, sequela",Echeng
+67,67,Junior Executive,"Adverse effect of antidotes and chelating agents, sequela",Deep River
+68,68,GIS Technical Architect,Cellulitis of toe,Mandaon
+69,69,Chief Design Engineer,Person on outside of car injured in collision w SUV in traf,Krajan
+70,70,Assistant Manager,Nondisplaced fracture of lateral condyle of left humerus,Dongla
+71,71,Nuclear Power Engineer,"Poisn by cephalospor/oth beta-lactm antibiot, slf-hrm, sqla",Tall Abyaḑ
+72,72,Assistant Professor,Unspecified superficial injury of unspecified forearm,La Courneuve
+73,73,Account Coordinator,"Unspecified open wound of left hand, sequela",Salinópolis
+74,74,Mechanical Systems Engineer,"Toxic effect of tin and its compounds, accidental, init",Solčava
+75,75,Database Administrator IV,"Cont preg aft uterin dth of one fts or more, unsp tri, fts4",Jetaral
+76,76,Desktop Support Technician,"Subluxation and disloc of metacarpal (bone), proximal end",Sison
+77,77,Help Desk Technician,"Other fracture of left foot, 7thP",Dologon
+78,78,Actuary,"Infect/inflm reaction due to int fix of right tibia, subs",Amieiro
+79,79,Administrative Assistant IV,"Toxic effect of unsp spider venom, self-harm, subs",Kariya
+80,80,Help Desk Operator,"Toxic effect of lacrimogenic gas, accidental (unintentional)",Contagem
+81,81,Clinical Specialist,Corrosion of third degree of right upper arm,Lidköping
+82,82,Administrative Officer,"Nondisp subtrochnt fx unsp femr, 7thJ",Lamalewar
+83,83,Dental Hygienist,"Nondisp oblique fracture of shaft of unsp tibia, sequela",Bijeli
+84,84,Financial Analyst,"Other fracture of occiput, unspecified side, 7thD",Seremban
+85,85,Account Representative III,"Lacerat extn musc/fasc/tend l little fngr at forarm lv, subs",Bagacay
+86,86,Assistant Manager,Subluxation and disloc of distal interphaln joint of thumb,Pasarbaru
+87,87,Assistant Professor,Burn of unsp degree of multiple sites of wrist and hand,Pereslavl’-Zalesskiy
+88,88,Automation Specialist I,"Major lacerat great saph at hip and thi lev, left leg, init",Xingxi
+89,89,Account Coordinator,"Unsp fx shaft of r rad, subs for opn fx type I/2 w malunion",Huangpi
+90,90,Mechanical Systems Engineer,"Cystic meniscus, unspecified meniscus, right knee",Huaqiao
+91,91,Nuclear Power Engineer,"Anaplstc lg cell lymph, ALK-pos, nodes of ing rgn & low lmb",Vicente Guerrero
+92,92,Dental Hygienist,"Disp fx of medial condyle of left humerus, init for opn fx",Yandang
+93,93,Assistant Media Planner,"Posterior subluxation of right hip, subsequent encounter",Matlang
+94,94,Biostatistician I,"Inj musc/fasc/tend long head of biceps, left arm",Nacala
+95,95,Senior Cost Accountant,"Unsp fx upr end unsp ulna, 7thQ",Huangbizhuang
+96,96,Associate Professor,"Toxic effect of cadmium and its compnd, self-harm, sequela",Sioguí Arriba
+97,97,Payment Adjustment Coordinator,Diffuse traumatic brain injury,San Benito
+98,98,Accounting Assistant III,"Complete lesion at C8 level of cervical spinal cord, init",Liaonan
+99,99,Staff Scientist,Generalized atherosclerosis,Jaguaribe
+100,100,Software Test Engineer IV,"Unsp fracture of unsp patella, init for opn fx type I/2",Nova Viçosa
+101,101,Senior Developer,"Spontaneous rupture of flexor tendons, hand",Kapshagay
+102,102,Software Test Engineer III,"Complete traumatic transmetcrpl amp of left hand, sequela",Longhe
+103,103,Technical Writer,"Poisoning by local astringents/detergents, undet, init",Wujiashan
+104,104,Food Chemist,"Nondisp Rolando's fracture, l hand, subs for fx w nonunion",Luokou
+105,105,Project Manager,"Displaced oblique fracture of shaft of left fibula, init",Jiading
+106,106,VP Accounting,"Acute hematogenous osteomyelitis, unsp tibia and fibula",Cibunar
+107,107,Systems Administrator II,"Poisoning by propionic acid derivatives, self-harm, init",Jiazi
+108,108,Associate Professor,Other complications of enterostomy,Kokkinóchoma
+109,109,Chemical Engineer,Contact with cow,Craigavon
+110,110,Engineer II,"Displacement of int fix of bone of right lower leg, init",Buffalo
+111,111,Automation Specialist II,Greenstick fracture of shaft of radius,Nasielsk
+112,112,Engineer IV,"Unstbl burst fx unsp thor vertebra, subs for fx w delay heal",Yunfu
+113,113,Cost Accountant,"Medial sublux of proximal end of tibia, right knee, sequela",Babakanjaya
+114,114,Quality Engineer,"Burn of unspecified degree of lip(s), initial encounter",Beaumont
+115,115,Tax Accountant,"External constriction of part of breast, left breast, init",Nagai
+116,116,Clinical Specialist,Unspecified open wound of unspecified part of thorax,Cana Chapetón
+117,117,Software Test Engineer II,"Corrosions of right ear drum, sequela",Nereta
+118,118,Nurse Practicioner,Corros first degree of unsp single finger except thumb,Bojonghaur
+119,119,Financial Advisor,"Nondisp fx of neck of first metacarpal bone, left hand",Seixezelo
+120,120,Account Coordinator,Pre-existing secondary hypertension complicating childbirth,Putang
+121,121,Environmental Specialist,Dislocation of unsp interphalangeal joint of l mid finger,Zlatni Pyasatsi
+122,122,Human Resources Assistant I,"Disp fx of unsp radial styloid pro, 7thD",Cibodas
+123,123,Data Coordinator,"Toxic effect of tetrachloroethylene, assault, subs encntr",Zhangjiapan
+124,124,Marketing Assistant,"Displ commnt fx shaft of humer, unsp arm, 7thG",Las Vegas
+125,125,Web Designer III,"Displaced pilon fx left tibia, subs for clos fx w malunion",Évry
+126,126,Nurse,"Other specified injury of posterior tibial artery, right leg",Datuan
+127,127,Clinical Specialist,"Prsn brd/alit hv veh injured in clsn w rail trn/veh, sequela",Pechenizhyn
+128,128,VP Sales,"Low-tension glaucoma, bilateral, severe stage",Karang Kulon
+129,129,Graphic Designer,"Disp fx of prox phalanx of l mid fngr, 7thD",Cetinje
+130,130,Professor,Disp fx of distal pole of navicular bone of right wrist,Oakville
+131,131,Web Designer III,"Pnctr w fb of l mid finger w/o damage to nail, sequela",Yanhu
+132,132,Senior Sales Associate,"Leakage of ventricular intracranial shunt, init",Shuangqiao
+133,133,Structural Engineer,Laceration of unspecified part of colon,Hedaru
+134,134,Paralegal,Unspecified corneal deformity,Pulaupinang
+135,135,Software Test Engineer IV,"Blister (nonthermal) of abdominal wall, sequela",Touying
+136,136,Electrical Engineer,"Subluxation of MTP joint of right lesser toe(s), sequela",Zhenlong
+137,137,Dental Hygienist,"Major contusion of unspecified kidney, subsequent encounter",Ševica
+138,138,Biostatistician III,"Accidental handgun malfunction, initial encounter",Mangusu
+139,139,Design Engineer,"Polyhydramnios, third trimester, other fetus",Shymkent
+140,140,Clinical Specialist,"Injury of unspecified iliac artery, sequela",Toronto
+141,141,Business Systems Development Analyst,"Unsp open wound of unsp toe(s) with damage to nail, sequela",Hualongyan
+142,142,Editor,"Egg (Oocyte) donor under age 35, designated recipient",Vitry-le-François
+143,143,Media Manager IV,"Poisoning by antifungal antibiot, sys used, self-harm, init",Mutengene
+144,144,Operator,"Infective myositis, unspecified right leg",Богданци
+145,145,Nurse,Oth complication of nervous system prosth dev/grft,Yerevan
+146,146,Administrative Officer,Unspecified corneal ulcer,Karachi
+147,147,Librarian,"Driver of bus injured in collision w pedl cyc in traf, subs",Tuanjie
+148,148,Social Worker,"Burn of first degree of unspecified lower leg, subs encntr",Pasatan
+149,149,VP Quality Control,"Other sprain of unspecified elbow, initial encounter",Landskrona
+150,150,Recruiter,"Other osteonecrosis, unspecified bone",Levuka
+151,151,Human Resources Manager,"Oth disp fx of base of 1st MC bone, l hand, 7thD",Drayton Valley
+152,152,Structural Engineer,"Other chronic hematogenous osteomyelitis, shoulder",Pandanwangi
+153,153,Help Desk Technician,"Vascular abnormalities of conjunctiva, bilateral",Gaoleshan
+154,154,Librarian,"Oth physeal fx lower end of l tibia, subs for fx w nonunion",Andros Town
+155,155,Software Test Engineer I,"Corrosion of unspecified degree of left palm, sequela",Henggang
+156,156,Administrative Officer,"Nondisp fx of pisiform, unsp wrist, init for clos fx",Laya
+157,157,Geologist I,Other gliding-type pedestrian conveyance accident,Genteng
+158,158,Assistant Manager,Burns of 70-79% of body surface w 60-69% third degree burns,Tagkawayan Sabang
+159,159,Senior Financial Analyst,"Unspecified open wound, left hip, subsequent encounter",Paulínia
+160,160,Biostatistician I,Type 2 diabetes w diabetic autonomic (poly)neuropathy,Shanga
+161,161,Account Executive,Abnormal glucose complicating childbirth,Ekerö
+162,162,Junior Executive,"Injury of digital nerve of left thumb, sequela",Pingdu
+163,163,Pharmacist,"Disloc of MC (bone), proximal end of right hand, subs",Stutterheim
+164,164,Operator,"Traum hemor right cerebrum w LOC of 31-59 min, init",Dongchengyuan
+165,165,Quality Engineer,"Oth fx low end unsp ulna, 7thE",Ko Chan
+166,166,Actuary,"Sltr-haris Type I physl fx low end ulna, r arm, 7thD",Saint Petersburg
+167,167,Account Executive,"Poisoning by local anesthetics, undetermined",Yuktae-dong
+168,168,Recruiting Manager,Unspecified male sexual dysfunction,Midões
+169,169,Payment Adjustment Coordinator,Laceration w fb of right eyelid and periocular area,Skövde
+170,170,Desktop Support Technician,"Nondisp transverse fx shaft of unsp rad, 7thE",Al Khārijah
+171,171,Operator,"Terrorism involving dest arcrft, terrorist injured, sequela",Siva
+172,172,Food Chemist,Drug/chem diab w mild nonprlf diab rtnop w/o macular edema,Cinyawang
+173,173,Physical Therapy Assistant,"Underdosing of mixed bacterial vaccines w/o a pertuss, init",Świnna
+174,174,Sales Representative,"Displacmnt of cardiac and vasc devices and implnt, sequela",Kete Krachi
+175,175,Human Resources Manager,"Nondisp commnt fx shaft of l tibia, 7thF",Hermanus
+176,176,Community Outreach Specialist,"Adverse effect of mineralocorticoids and antag, sequela",Saravia
+177,177,Junior Executive,"Nondisp fx of posterior wall of unsp acetab, init for opn fx",Pestovo
+178,178,Legal Assistant,Dextrocardia,Kafr al Labad
+179,179,Mechanical Systems Engineer,"Complete traumatic trnsphal amp of l mid finger, sequela",Cambará
+180,180,Physical Therapy Assistant,"Lacerat musc/tend peroneal grp at lower leg level, right leg",Donja Mahala
+181,181,Professor,"Lacerat unsp musc/fasc/tend at forarm lv, left arm, init",Stegna
+182,182,Developer II,Unsp place in boarding-house as place,El Calafate
+183,183,Administrative Assistant II,"Burn of first degree of unspecified foot, initial encounter",Várzea de Sintra
+184,184,Design Engineer,"Path fx in neopltc disease, pelvis, subs for fx w nonunion",Fujioka
+185,185,VP Product Management,Retained wood fragments,Lons-le-Saunier
+186,186,Assistant Manager,"Sltr-haris Type IV physeal fx phalanx of left toe, 7thP",Achanizo
+187,187,Software Test Engineer I,"Oth fracture of fifth lumbar vertebra, init for opn fx",Ximafang
+188,188,Assistant Media Planner,"Nondisplaced osteochon fracture of right patella, sequela",San Diego
+189,189,Registered Nurse,"Thor, thrclm & lumbosacr intvrt disc disord w radiculopathy",Battaramulla South
+190,190,Quality Engineer,"Legal intervnt w unsp sharp objects, suspect injured, init",Santiago
+191,191,Business Systems Development Analyst,Pulmonary candidiasis,Chumphon
+192,192,Director of Sales,"Open bite of right hand, subsequent encounter",Villeneuve-lès-Avignon
+193,193,Social Worker,"Disp fx of intermediate cuneiform of left foot, init",Khisarya
+194,194,Product Engineer,Left sided colitis,Delingha
+195,195,GIS Technical Architect,"Burn of third degree of right thumb (nail), sequela",Cuauhtemoc
+196,196,Business Systems Development Analyst,"Ped on rolr-skt injured in collision w hv veh in traf, subs",South Bend
+197,197,Structural Analysis Engineer,Fall from or off toilet w/o strike against object,Santa Cruz Muluá
+198,198,Senior Editor,Accessory toe(s),Dishnā
+199,199,Speech Pathologist,Unsp nephritic syndrome w diffuse crescentic glomrlneph,Wawa
+200,200,Business Systems Development Analyst,"Single liveborn infant, unspecified as to place of birth",Taiyang
+201,201,Environmental Specialist,"Other infective (teno)synovitis, right knee",Zhougang
+202,202,Account Executive,"Major laceration of right external jugular vein, init encntr",Otyń
+203,203,Computer Systems Analyst III,"Toxic effect of chloroform, accidental (unintentional)",Sebina
+204,204,Environmental Specialist,"Toxic effect of rodenticides, assault, sequela",Chiang Yuen
+205,205,Structural Analysis Engineer,Nondisplaced Maisonneuve's fracture of unspecified leg,Strzelce Krajeńskie
+206,206,Health Coach I,Congenital occlusion of ureterovesical orifice,Kalej
+207,207,Professor,Other specified disorders of cornea,Shicheng
+208,208,Physical Therapy Assistant,"Keratoconjunct sicca, not specified as Sjogren's, left eye",Soras
+209,209,Database Administrator II,"Dislocation of unsp interphalangeal joint of finger, subs",Boca Suno
+210,210,Software Engineer IV,Pasngr in 3-whl mv injured in nonclsn trnsp accident in traf,Desa Werasari
+211,211,Actuary,"Interstitial myositis, right thigh",Kotauneng
+212,212,Account Coordinator,Other injury of other specified intrathoracic organs,Stockholm
+213,213,Help Desk Technician,Puncture wound with foreign body of lower back and pelvis,Niopanda
+214,214,Senior Editor,Cerebral infarction due to embolism of r verteb art,Ḩarīb
+215,215,Human Resources Manager,"Medial epicondylitis, unspecified elbow",Fufang
+216,216,Quality Control Specialist,"Wedge comprsn fx first lum vert, subs for fx w routn heal",Maishi
+217,217,Research Nurse,"Hemarthrosis, knee",Tessaoua
+218,218,Web Developer II,"Nondisp spiral fx shaft of unsp femr, 7thH",Cluain Meala
+219,219,Pharmacist,Hallucinogen dependence w psychotic disorder,Shijing
+220,220,Account Executive,"Stress fracture, right fibula, subs for fx w routn heal",Shihuiqiao
+221,221,Human Resources Manager,"Laceration w foreign body of vagina and vulva, init encntr",Cardona
+222,222,Biostatistician II,Inadequate sleep hygiene,Tanuma
+223,223,Senior Editor,Right upper quadrant pain,Eucaliptus
+224,224,Accounting Assistant II,Underdosing of analeptics and opioid receptor antagonists,Jinja
+225,225,Automation Specialist II,Displaced segmental fracture of shaft of left tibia,Zhangzhishan
+226,226,Analog Circuit Design manager,Cannabis dependence with cannabis-induced anxiety disorder,St. Anton an der Jeßnitz
+227,227,Senior Quality Engineer,"Stress fracture, left ankle, subs for fx w delay heal",Pendolo
+228,228,Electrical Engineer,"Disp fx of 2nd metatarsal bone, unsp ft, 7thG",Taremskoye
+229,229,Research Nurse,"Posterior scleritis, right eye",El Estor
+230,230,Senior Financial Analyst,"Displacement of other vascular grafts, sequela",Miratejo
+231,231,Human Resources Assistant I,"Abrasion, right ankle, sequela",Xitieshan
+232,232,Dental Hygienist,"Disp fx of lateral malleolus of r fibula, 7thJ",Sekondi-Takoradi
+233,233,Food Chemist,"Suppurative otitis media, unspecified",Vlorë
+234,234,Database Administrator IV,"Strain of extensor musc/fasc/tend thmb at wrs/hnd lv, init",Rio Claro
+235,235,Geologist II,"Abrasion, unspecified great toe, sequela",Vizal San Pablo
+236,236,Software Engineer IV,"Burn due to water-skis on fire, initial encounter",Bene 'Ayish
+237,237,Web Designer II,"Maternal care for Anti-A sensitization, unsp trimester, unsp",Kobeřice
+238,238,Statistician IV,"Fall (on)(from) escalator, sequela",Qiaoshi
+239,239,Desktop Support Technician,"Passenger of dune buggy injured nontraf, sequela",Kotor
+240,240,Account Representative I,"Corrosion of unspecified degree of unspecified ear, sequela",Kayan Hulu
+241,241,Human Resources Manager,Forest as the place of occurrence of the external cause,Pakel
+242,242,Budget/Accounting Analyst II,"Nondisp bicondylar fx left tibia, init for opn fx type I/2",Fuyang
+243,243,Environmental Specialist,"Shock therapy cause abn react/compl, w/o misadvnt",Singapore
+244,244,Dental Hygienist,"Pauciarticular juvenile rheumatoid arthritis, hip",Luocheng
+245,245,Registered Nurse,"Unspecified injury of left renal vein, sequela",Pasauran
+246,246,Editor,"Person injured in clsn betw car and pk-up/van, nontraf, init",Xinxiang
+247,247,Nurse,"Traum cereb edema w LOC w death d/t brain inj bf consc, init",Khemarat
+248,248,Accountant I,Struck by other birds,Osięciny
+249,249,Associate Professor,Fracture of unspecified tarsal bone(s) of left foot,Öldziyt
+250,250,VP Sales,"Personal history of endo, nutritional and metabolic diseases",Manay
+251,251,Compensation Analyst,"Displ spiral fx shaft of r fibula, 7thR",Alor Setar
+252,252,Sales Associate,"Corros first deg mult left fngr (nail), not inc thumb, sqla",Totora
+253,253,VP Accounting,Deformity of orbit,Dolo
+254,254,Structural Engineer,"Poisoning by antiallergic and antiemetic drugs, assault",Oshawa
+255,255,Biostatistician IV,"Partial traumatic amputation at unsp hip joint, init encntr",Punata
+256,256,Geological Engineer,Contact with other fish,Puncakbaru
+257,257,Programmer II,"Nondisp fx of prox 3rd of navic bone of r wrs, 7thB",General Roca
+258,258,Professor,"Scotoma involving central area, left eye",Pansoy
+259,259,Senior Cost Accountant,"Lacerat musc/tend post grp at low leg level, right leg, init",El Mirador
+260,260,Accountant I,Unspecified ectopic pregnancy without intrauterine pregnancy,Lubao
+261,261,Speech Pathologist,Other specified anomalies of jaw size,Saint-Maixent-l'École
+262,262,Quality Control Specialist,Injury of nerves at forearm level,Dazuo
+263,263,Registered Nurse,"Moderate laceration of spleen, sequela",Lokossa
+264,264,Quality Control Specialist,Corros third degree of single l finger (nail) except thumb,Lindome
+265,265,Mechanical Systems Engineer,"Drown due to oth powered watercraft sinking, subs",Gremyachinsk
+266,266,Recruiter,"Tidal wave due to landslide, sequela",Ängelholm
+267,267,Product Engineer,"Unilateral inguinal hernia, with gangrene",Pasinan Barat
+268,268,Paralegal,Injury of nerves at ankle and foot level,Ropice
+269,269,Professor,Acute embolism and thrombosis of left subclavian vein,Tønsberg
+270,270,Environmental Specialist,Encounter for other procreative management,Ras al-Khaimah
+271,271,Graphic Designer,Legal intervention involving blunt objects,Nancy
+272,272,Help Desk Operator,"Laceration without foreign body, left knee, subs encntr",Orléans
+273,273,Geological Engineer,Burns of 30-39% of body surface w 10-19% third degree burns,Xufeng
+274,274,GIS Technical Architect,Chronic embolism and thrombosis of unspecified vein,Jazovo
+275,275,Human Resources Assistant III,"Age-rel osteopor w current path fracture, left ank/ft, init",Ngeru
+276,276,Nurse Practicioner,"Injury of l int carotid, intcr w LOC of unsp duration, init",Smołdzino
+277,277,Safety Technician I,Calcium deposit in bursa,Kuandian
+278,278,Technical Writer,"Open bite of right great toe w/o damage to nail, subs encntr",Heerlen
+279,279,Account Coordinator,"Partial traumatic amputation at unsp shoulder joint, init",Rahayu
+280,280,Actuary,Subinvolution of uterus,Kadukaung
+281,281,Research Associate,Encounter for fit/adjst of peritoneal dialysis catheter,Giebułtów
+282,282,Recruiter,"Recurrent dislocation, ankle, foot and toes",Jinshi
+283,283,Editor,"Toxic effect of fusel oil, intentional self-harm, sequela",Chepo
+284,284,Staff Accountant III,"Dislocation of distal radioulnar joint of left wrist, subs",Mirocin
+285,285,Software Engineer IV,"Underdosing of unsp antipsychotics and neuroleptics, sequela",Gesik
+286,286,Database Administrator III,"Displaced intertroch fx r femur, init for opn fx type 3A/B/C",Kampungruweh
+287,287,Safety Technician II,"Toxic eff of halgn deriv of aliphatic hydrocrb, acc, sqla",Ganzi
+288,288,Human Resources Assistant III,"Fx unsp part of scapula, unsp shoulder, init for opn fx",San Miguel
+289,289,Web Designer III,Herniation of incontinent stoma of urinary tract,Ozimek
+290,290,Senior Editor,"Skeletal fluorosis, unspecified thigh",Pentecoste
+291,291,Civil Engineer,"Other noninfective acute otitis externa, left ear",Berekum
+292,292,Budget/Accounting Analyst II,"Unsp pre-existing htn comp pregnancy, unsp trimester",Sukawaris
+293,293,Research Associate,"Unsp injury of superfic vn at shldr/up arm, right arm, init",Paraparaumu
+294,294,Health Coach IV,"Subluxation of right acromioclavicular joint, init encntr",Roanoke
+295,295,Mechanical Systems Engineer,"Oth disp fx of first cervical vertebra, init for opn fx",Biao
+296,296,Administrative Assistant III,"Oth fx shaft of rad, unsp arm, 7thF",Musanze
+297,297,Project Manager,"Nodular episcleritis, left eye",Hiroshima-shi
+298,298,GIS Technical Architect,"Other physeal fracture of phalanx of left toe, 7thP",Chongjin
+299,299,Programmer IV,"Open bite, left knee, subsequent encounter",El Obeid
+300,300,Database Administrator II,Military operations involving other destruction of aircraft,Taoyao
+301,301,Account Representative III,"Laceration of plantar artery of right foot, init encntr",Chashan
+302,302,Biostatistician IV,"Unspecified injury of other part of colon, initial encounter",Madolenihm Municipality Government
+303,303,Accountant I,Malignant neoplasm of breast of unspecified site,Węgliniec
+304,304,Cost Accountant,"Unsp injury of brachial artery, unspecified side, sequela",Coaticook
+305,305,Statistician IV,"Mycobacterial infection, unspecified",Gunajaya
+306,306,Analog Circuit Design manager,"Matern care for damag to fts from viral dis in mother, fts5",Banjar Parekan
+307,307,Senior Financial Analyst,"Legal intervnt involving oth sharp objects, bystand injured",Mili
+308,308,Structural Analysis Engineer,Blepharochalasis right upper eyelid,Zhencheng
+309,309,Payment Adjustment Coordinator,"Burn third degree of unsp mult fingers (nail), not inc thumb",Bokhan
+310,310,Senior Developer,"Burn of third degree of left foot, subsequent encounter",Nkpor
+311,311,Structural Analysis Engineer,"Complete traumatic transmetcrpl amp of unsp hand, subs",Broniszewice
+312,312,Financial Analyst,"Laceration of axillary or brachial vein, left side",Bordeaux
+313,313,Software Engineer III,"Disloc of proximal interphaln joint of r idx fngr, sequela",Mueang Suang
+314,314,Account Executive,"Central corneal opacity, bilateral",Arruda dos Vinhos
+315,315,VP Sales,"Nondisp oth fx tuberosity of unsp calcaneus, init for opn fx",San José El Ídolo
+316,316,Analyst Programmer,"Frostbite w tissue necros right knee and lower leg, init",Mambulo
+317,317,Senior Financial Analyst,"Other injuries of left eye and orbit, sequela",Zoushi
+318,318,Structural Engineer,"Noninflammatory disord of ovary, fallop and broad ligament",Uyuni
+319,319,Senior Sales Associate,"Disp fx of l tibial spin, 7thQ",Amsterdam Westpoort
+320,320,Chief Design Engineer,"Disease of pulmonary vessels, unspecified",Zhexiao
+321,321,Structural Engineer,"Burn due to localized fire on board fishing boat, subs",Krasnokholmskiy
+322,322,Chemical Engineer,Acquired periventricular cysts of newborn,Marilao
+323,323,Statistician IV,Underdosing of glucocorticoids and synthetic analogues,Orikhiv
+324,324,Software Test Engineer IV,"Burn first deg mult sites of shldr/up lmb, ex wrs/hnd, sqla",Binangun
+325,325,Assistant Manager,"Nondisp fx of coronoid pro of unsp ulna, 7thE",Thị Trấn Việt Lâm
+326,326,Quality Engineer,Driver of 3-whl mv injured in clsn w oth and unsp mv nontraf,Burträsk
+327,327,Product Engineer,"Unsp physl fx low end rad, r arm, subs for fx w delay heal",Ponte
+328,328,Product Engineer,"Food in bronchus causing asphyxiation, subsequent encounter",Hannover
+329,329,Payment Adjustment Coordinator,"Unsp trochan fx r femur, subs for opn fx type I/2 w malunion",Merritt
+330,330,Media Manager III,Cramp and spasm,Chaoyang
+331,331,Tax Accountant,"Abscess of tendon sheath, left forearm",Log
+332,332,Web Developer I,Tenonitis of right orbit,Saseel
+333,333,Desktop Support Technician,Superficial foreign body of unspecified elbow,Áyios Yeóryios
+334,334,Human Resources Manager,"Child neglect or abandonment, suspected, initial encounter",Debeljača
+335,335,Staff Accountant II,"Burn of first degree of right ankle, subsequent encounter",Gancheng
+336,336,General Manager,"Displaced Rolando's fracture, left hand",Rangxi
+337,337,Structural Analysis Engineer,Laceration of pleura,Si Racha
+338,338,Physical Therapy Assistant,"Endometrial hyperplasia, unspecified",Juazeiro do Norte
+339,339,Senior Financial Analyst,"Disp fx of proximal phalanx of left middle finger, init",Changtang
+340,340,Human Resources Assistant III,"Unspecified disp fx of seventh cervical vertebra, sequela",Mafraq
+341,341,Structural Engineer,"Other age-related incipient cataract, unspecified eye",Michurinskoye
+342,342,Research Associate,Acute emblsm and thombos unsp deep vn unsp prox low extrm,Skutskär
+343,343,VP Quality Control,Subluxation of other carpometacarpal joint of right hand,Debeljača
+344,344,Environmental Tech,Cutaneous abscess of hand,Pampas
+345,345,Environmental Specialist,"Arthropathies in oth diseases classd elswhr, right shoulder",Marseille
+346,346,Human Resources Manager,Corrosion of second degree of scalp [any part],Ciudad Nueva
+347,347,Office Assistant III,"Moderate laceration of right kidney, sequela",Cirahab
+348,348,Senior Editor,"Matern care for disproprtn d/t unusually large fetus, fts1",Hashimoto
+349,349,Dental Hygienist,"Gonorrhea complicating pregnancy, second trimester",Markala
+350,350,Senior Sales Associate,"Toxic effect of chlorofluorocarbons, accidental, init",Renchaoxi
+351,351,Dental Hygienist,"Primary blast injury of fallopian tube, bilateral, init",Salamá
+352,352,Senior Quality Engineer,"Pnctr w fb of abd wall, l upr q w penet perit cav, subs",Yanbei
+353,353,Office Assistant IV,"Laceration of unsp blood vessel at forarm lv, left arm, init",Washington
+354,354,Information Systems Manager,"Burn of second degree of left toe(s) (nail), init encntr",Chiţcani
+355,355,VP Quality Control,"Strain flexor musc/fasc/tend r idx fngr at wrs/hnd lv, init",Ranchuelo
+356,356,Information Systems Manager,Malignant neoplasm of penis,Caldelas
+357,357,Software Engineer IV,Driver injured in collision w oth and unsp mv in traf,Tene
+358,358,Electrical Engineer,"Corrosion of second degree of left shoulder, init encntr",Matos da Ranha
+359,359,Human Resources Manager,"Disp fx of greater tuberosity of unsp humer, 7thK",Carapelhos
+360,360,Occupational Therapist,"Toxic effect of unsp snake venom, self-harm, init",Kizel
+361,361,Web Developer III,"Toxic effect of strychnine and its salts, self-harm, sequela",Bobadela
+362,362,Media Manager II,"Acute contact otitis externa, left ear",Pasuruan
+363,363,Help Desk Operator,"Poisoning by oth estrogens and progstrn, assault, sequela",Ladhewāla Warāich
+364,364,Marketing Manager,"Other rupture of muscle (nontraumatic), left lower leg",Tarczyn
+365,365,Database Administrator I,"Primary blast injury of lung, unilateral",Hoani
+366,366,VP Quality Control,"Milt op w acc deton onboard marine weapons, civilian, init",Barra
+367,367,Recruiting Manager,"Other fish poisoning, assault",Na Di
+368,368,General Manager,"Nondisp fx of greater trochanter of r femr, 7thG",Sangar Sarāy
+369,369,Mechanical Systems Engineer,"Driver of bus injured in collision w hv veh in traf, init",Jinggan
+370,370,Chief Design Engineer,"Displaced spiral fracture of shaft of left femur, sequela",Chŏngju
+371,371,Financial Advisor,"Oth fx head/neck of r femr, 7thR",Huité
+372,372,Occupational Therapist,Smith's fracture,Gongdanglegi Kulon
+373,373,Mechanical Systems Engineer,"Unsp dislocation of unspecified shoulder joint, init encntr",Thị Trấn Tam Điệp
+374,374,Electrical Engineer,"Infantile idiopathic scoliosis, cervical region",Khulo
+375,375,Actuary,"Displ transverse fx shaft of l tibia, 7thC",Fuyo
+376,376,Junior Executive,"Toxic effect of venom of ants, intentional self-harm, subs",Tan-Tan
+377,377,Accounting Assistant II,"Diseases of the nervous sys comp pregnancy, first trimester",Gagnoa
+378,378,Developer II,Rheumatoid myopathy with rheumatoid arthritis of left hand,Qazax
+379,379,Nurse,Interstitial myositis,Górzno
+380,380,Legal Assistant,"Nondisp transverse fx shaft of l rad, 7thR",Venâncio Aires
+381,381,Sales Representative,"Unspecified diabetes mellitus in pregnancy, second trimester",Yunji
+382,382,Payment Adjustment Coordinator,"Other superficial bite of unspecified elbow, subs encntr",Paisha
+383,383,GIS Technical Architect,"Nondisp fx of unsp radial styloid pro, 7thM",Carnot
+384,384,Research Assistant IV,"Nondisp artic fx head of unsp femr, 7thM",Fizuli
+385,385,Teacher,"Kaschin-Beck disease, right elbow",Cigoong
+386,386,Senior Sales Associate,Blood alcohol level of 60-79 mg/100 ml,Dobrá
+387,387,Software Consultant,"Coma scale, best motor response, flexion withdrawal, 24+hrs",Duraznopampa
+388,388,Administrative Assistant I,Cystinuria,Xiangfu
+389,389,Executive Secretary,"Underdosing of antifungal antibiotics, sys used, subs",Longtou
+390,390,Design Engineer,"Oth complication of other internal prosth dev/grft, subs",Carrigaline
+391,391,Office Assistant III,"Path fracture, left finger(s), subs for fx w nonunion",Suyo
+392,392,Occupational Therapist,"Occup of 3-whl mv injured in clsn w pedl cyc in traf, subs",Tungi
+393,393,Paralegal,"Hallucinations, unspecified",Pak Phayun
+394,394,Research Assistant II,"Nondisp fx of distal phalanx of right thumb, init for opn fx",Jieshi
+395,395,Computer Systems Analyst IV,"Laceration w fb of unsp finger w/o damage to nail, sequela",Borlänge
+396,396,Compensation Analyst,"Anaphylactic reaction due to other fish, sequela",Xiongguan
+397,397,Community Outreach Specialist,"Pasngr in 3-whl mv inj pk-up truck, pk-up/van nontraf, init",Montepuez
+398,398,Sales Associate,Laceration of blood vessel of right index finger,Hāsilpur
+399,399,Graphic Designer,Malig neoplm of ovrlp sites of prph nrv and autonm nrv sys,Skara
+400,400,Desktop Support Technician,"Displaced intartic fx l calcaneus, subs for fx w routn heal",Cimongkor
+401,401,Senior Developer,"Fx unsp metatarsal bone(s), unsp ft, 7thG",Vřesina
+402,402,Actuary,"Sprain of oth parts of lumbar spine and pelvis, subs encntr",Yag La
+403,403,Electrical Engineer,"Disorder of ligament, elbow",Upig
+404,404,Research Associate,Contusion of anus,Dicamay
+405,405,Sales Associate,"Syphilis complicating pregnancy, third trimester",Parlilitan
+406,406,Recruiting Manager,"Pnctr w/o fb of left eyelid and periocular area, sequela",Boconó
+407,407,Recruiting Manager,Double outlet left ventricle,Albania
+408,408,Geological Engineer,"Poisn by dental drugs, topically applied, self-harm, subs",Puerto Varas
+409,409,Design Engineer,"Insect bite (nonvenomous), right foot, subsequent encounter",Simo Satu
+410,410,Data Coordinator,Mechanical ectropion of right lower eyelid,Kenyau
+411,411,Mechanical Systems Engineer,"Nondisp pilon fx unsp tibia, 7thQ",Vecpiebalga
+412,412,Graphic Designer,"Hordeolum externum unspecified eye, unspecified eyelid",Ebu
+413,413,Research Nurse,"Corros 2nd deg mul left fngr (nail), not inc thumb, sequela",Cafarnaum
+414,414,Health Coach IV,Torus fracture of lower end of left humerus,Rassvet
+415,415,Food Chemist,"Toxic effect of contact w oth venomous amphib, undet, init",Pancoran
+416,416,Accounting Assistant III,Hostility,Santa Bárbara
+417,417,Senior Cost Accountant,"Other specified arthritis, left ankle and foot",Pingdu
+418,418,Social Worker,"Insect bite (nonvenomous), left knee",Laḩij
+419,419,Dental Hygienist,Oropouche virus disease,Yangping
+420,420,Business Systems Development Analyst,"Blister (nonthermal), left hip, initial encounter",Strängnäs
+421,421,Internal Auditor,Abscess of the breast and nipple,Dangjiaxian
+422,422,General Manager,Inhalation of hot air and gases,Slobodka
+423,423,Executive Secretary,"Foot drop, unspecified foot",Fantan
+424,424,Marketing Manager,"Nondisp fx of trapezoid, left wrist, init for clos fx",Vitali
+425,425,Assistant Manager,Malignant neoplasm of right main bronchus,Huainan
+426,426,Staff Scientist,"Medial subluxation of unspecified ulnohumeral joint, sequela",Pindangan Centro
+427,427,Recruiting Manager,"Subluxation of C3/C4 cervical vertebrae, initial encounter",Lavrica
+428,428,Paralegal,"Zygomatic fracture, right side, 7thK",Māymay
+429,429,Operator,Congenital stenosis of aortic valve,Broshniv-Osada
+430,430,Structural Engineer,"Strain of left quadriceps muscle, fascia and tendon, subs",Guaymango
+431,431,Business Systems Development Analyst,"Other fracture of third metacarpal bone, left hand",Spiczyn
+432,432,Speech Pathologist,"Cannabis use, unspecified with intoxication, unspecified",Kanḏay
+433,433,Nurse,"Other specified disorders of cornea, right eye",Segovia
+434,434,Technical Writer,"Other physeal fracture of lower end of ulna, right arm",Šoštanj
+435,435,Social Worker,Maternal care for benign tumor of corpus uteri,Kurunegala
+436,436,Food Chemist,Oth parlyt synd fol oth ntrm intcrn hemor aff r nondom side,Rochefort
+437,437,Desktop Support Technician,"Pressure ulcer of unspecified heel, unspecified stage",Býšť
+438,438,Web Developer IV,Corrosion with resulting rupture and destruction of eyeball,Rukem
+439,439,Financial Analyst,"Other specified disorders of synovium, right elbow",Tembilahan
+440,440,Design Engineer,"Inj cutan sensory nerve at low leg level, unsp leg, sequela",Ozerne
+441,441,Analog Circuit Design manager,"Nondisp commnt fx shaft of ulna, r arm, 7thC",Nepalgunj
+442,442,Office Assistant III,Ascariasis with other complications,San Pedro
+443,443,Automation Specialist I,Pre-existing hyp chronic kidney disease comp the puerperium,Málaga
+444,444,Technical Writer,"Other secondary chronic gout, unspecified wrist, with tophus",Oeoh
+445,445,Compensation Analyst,"Oth fracture of second thoracic vertebra, init for clos fx",Munggang
+446,446,Engineer II,"Corrosion of third degree of unspecified ear, init encntr",Bairro
+447,447,Web Developer IV,"Stress fracture, right shoulder, subs for fx w routn heal",Lopatyn
+448,448,Database Administrator IV,"Other myositis, lower leg",Dongzhaogezhuang
+449,449,Structural Analysis Engineer,"Toxic effect of harmful algae and algae toxins, acc, sqla",Kanchanaburi
+450,450,Marketing Manager,"Fail or difficult intubation for anesth dur preg, first tri",Ndom
+451,451,Junior Executive,"Infantile idiopathic scoliosis, thoracolumbar region",Piaocao
+452,452,Programmer Analyst II,Bone graft rejection,Potštát
+453,453,Help Desk Technician,Other specified injuries of shoulder and upper arm,Thị Trấn Tà Lùng
+454,454,Account Coordinator,"Poisoning by unsp psychotropic drug, intentional self-harm",El Paso
+455,455,Staff Accountant IV,"Infection oth prt genitl trct in pregnancy, third trimester",Paranho
+456,456,Engineer I,Injury of other intra-abdominal organs,Goba
+457,457,Operator,"Other superficial bite of scalp, sequela",Ronfe
+458,458,Research Assistant IV,"Unspecified injury of femoral artery, left leg",Passo Fundo
+459,459,Research Associate,"Oth fx head/neck of l femr, 7thE",Hulan
+460,460,Accounting Assistant II,Secondary syphilitic oculopathy,Nieszawa
+461,461,Nurse Practicioner,Malignant neoplasm of unspecified cranial nerve,Vũ Quang
+462,462,Community Outreach Specialist,"Sltr-haris Type II physeal fx lower end of left femur, init",Hotsk
+463,463,Programmer Analyst IV,"Displaced avulsion fracture of unsp ilium, init for clos fx",Saint-Brieuc
+464,464,VP Product Management,"Nondisp seg fx shaft of ulna, r arm, 7thD",Dziewin
+465,465,VP Accounting,"Complete traum amp at lev betw elbow and wrist, r arm, sqla",Los Pinos
+466,466,Associate Professor,"Poisoning by inhaled anesthetics, accidental, init",Terneuzen
+467,467,Help Desk Technician,"Apnea, not elsewhere classified",Vitomarci
+468,468,Project Manager,"Superfic inj abdomen, low back, pelvis and external genitals",Corzuela
+469,469,Research Nurse,Mitochondrial metabolism disorders,Pueblo Nuevo
+470,470,Data Coordinator,"Traum subrac hem w LOC of 31-59 min, sequela",Camperdown
+471,471,Accounting Assistant II,"Poisoning by oth parasympath and spasmolytics, acc, sequela",Emiliano Zapata
+472,472,Engineer IV,"Traum hemor right cerebrum w LOC of unsp duration, init",Shangsanji
+473,473,Cost Accountant,"Unsp injury of musc/fasc/tend prt biceps, unsp arm",Sovetskoye
+474,474,Environmental Specialist,"Corrosion of third degree of right elbow, sequela",Intibucá
+475,475,Accountant IV,"Complete lesion at T11-T12, init",Leifeng
+476,476,Environmental Specialist,"Sprain of unsp collateral ligament of right knee, subs",Unión
+477,477,Engineer IV,Unspecified acute lower respiratory infection,Patzicía
+478,478,Statistician III,"Multiple fractures of ribs, bi, subs for fx w routn heal",Old City
+479,479,Nurse,"Other specified spondylopathies, cervical region",Asarum
+480,480,Analyst Programmer,Pneumoconiosis due to asbestos and other mineral fibers,Independencia
+481,481,Senior Developer,Secondary sideroblastic anemia due to disease,Dębowa Łąka
+482,482,Mechanical Systems Engineer,"Pnctr w fb of low back and pelv w/o penet retroperiton, sqla",El Bauga
+483,483,Junior Executive,Other complications of colostomy,Xianshuigu
+484,484,Social Worker,Cerebral infarction due to embolism of basilar artery,Dobšice
+485,485,Pharmacist,"Cataract extraction status, unspecified eye",Al Qadarif
+486,486,Legal Assistant,"Marginal corneal ulcer, bilateral",Bongbong
+487,487,VP Marketing,"Thoracic, thrclm and lumbosacr intvrt disc disord w myelpath",Malaya Dubna
+488,488,Budget/Accounting Analyst IV,"Disp fx of triquetrum bone, unsp wrs, subs for fx w malunion",Qingjiangqiao
+489,489,Systems Administrator II,"Other injury of other intra-abdominal organs, sequela",Jinquan
+490,490,Tax Accountant,"Milt op w direct blast effect of nuclear weapon, milt, init",Cantagallo
+491,491,Civil Engineer,"Person injured in unsp nonmotor-vehicle acc, nontraf, subs",Zhonghekou
+492,492,Help Desk Operator,Cyst of orbit,Forino
+493,493,Software Test Engineer II,"Prem separtn of placenta w afibrinogenemia, first trimester",Awjilah
+494,494,Business Systems Development Analyst,"External constriction, unspecified great toe",Nové Sedlo
+495,495,Systems Administrator I,"Toxic effect of fusel oil, intentional self-harm",Liangli
+496,496,Programmer III,"Oth nondisp fx of base of 1st MC bone, r hand, 7thB",La Cuesta
+497,497,Physical Therapy Assistant,"Preterm labor second tri w preterm del third tri, fetus 1",Vereshchagino
+498,498,Social Worker,Metabolic acidemia noted at birth,Niandui
+499,499,Internal Auditor,"Disp fx of low epiphy (separation) of l femr, 7thR",Mosjøen
+500,500,VP Accounting,"Gastric contents in trachea causing other injury, sequela",Xiongshan
+501,501,General Manager,Unspecified nonsuppurative otitis media,Jianba
+502,502,Information Systems Manager,"Laceration of unsp part of small intestine, subs encntr",Wat Bot
+503,503,Staff Accountant I,"Disorders of muscle in diseases classd elswhr, left shoulder",Zhitan
+504,504,Marketing Assistant,"Disp fx of ant process of unsp calcaneus, init for opn fx",Huambo
+505,505,Senior Quality Engineer,Unspecified dislocation of right middle finger,Qırmızı Samux
+506,506,Senior Financial Analyst,"Contusion of fallopian tube, unspecified, initial encounter",Imeni Babushkina
+507,507,Executive Secretary,"Toxic effect of venom of tarantula, accidental, init",Shchigry
+508,508,Office Assistant I,"Lymphocyte-rich Hodgkin lymphoma, intra-abd lymph nodes",Quva
+509,509,Assistant Manager,"Nondisp fx of olecran pro w intartic extn r ulna, 7thB",Cimanglid
+510,510,Geologist III,"Unsp injury of superior mesenteric artery, subs encntr",Terong
+511,511,Speech Pathologist,"Contus/lac/hem brnst w LOC >24 hr w/o ret consc w surv, sqla",Pacajus
+512,512,Human Resources Assistant IV,"Major laceration of unsp pulmonary blood vessels, subs",El Porvenir
+513,513,Structural Analysis Engineer,"Driver of hv veh injured in clsn w 2/3-whl mv in traf, init",Miami Beach
+514,514,Environmental Tech,"Nondisp fx of post column of l acetab, 7thD",Đống Đa
+515,515,Clinical Specialist,"Female cousin, perpetrator of maltreatment and neglect",El Ingenio
+516,516,Quality Control Specialist,"Neoplasm of uncertain behavior of male genital organ, unsp",Bagratashen
+517,517,Physical Therapy Assistant,Fracture of medial wall of acetabulum,Bicurga
+518,518,Statistician IV,Fracture of lateral condyle of tibia,Būrewāla
+519,519,Speech Pathologist,"Flexion deformity, right knee",Janas
+520,520,Research Associate,"Traum hemor left cerebrum w LOC of 30 minutes or less, subs",Słupno
+521,521,Associate Professor,"Juvenile rheumatoid arthritis with systemic onset, left hip",Chone
+522,522,Budget/Accounting Analyst II,"Disp fx of med phalanx of r idx fngr, subs for fx w malunion",Nāgarpur
+523,523,Cost Accountant,"Car driver injured in collision w SUV in traf, sequela",San Ramon
+524,524,Human Resources Assistant IV,"Poisoning by emetics, assault, sequela",Oguma
+525,525,Information Systems Manager,"Laceration of left renal artery, sequela",Yuanjue
+526,526,Business Systems Development Analyst,"Displ avulsion fx right ischium, subs for fx w delay heal",Santa Lucia
+527,527,Internal Auditor,Other specified disorders of bladder,Carcavelos
+528,528,Programmer Analyst III,"Injury of other cranial nerves, left side, subs encntr",Hedi
+529,529,Pharmacist,"Burn of unsp degree of back of unspecified hand, subs encntr",Auna
+530,530,Geologist IV,"Person outsd pk-up/van inj in clsn w pedl cyc nontraf, subs",San Roque
+531,531,Social Worker,"Unspecified subluxation of left radial head, init encntr",Gongchang
+532,532,Structural Analysis Engineer,"Oth injury of right external jugular vein, sequela",Sarandi
+533,533,Editor,Heart transplant infection,Kentongan
+534,534,VP Quality Control,"Toxic effect of other insecticides, assault",Bukhovo
+535,535,Business Systems Development Analyst,"Unsp traum displ spondylolysis of sixth cervcal vert, 7thD",Yunfu
+536,536,Teacher,"Poisn by unsp agents prim act on the resp sys, slf-hrm, sqla",Tingqian
+537,537,Human Resources Manager,Drowning and submersion due to passenger ship sinking,Pelópion
+538,538,Programmer Analyst IV,"Superficial foreign body, unspecified hip",Sebewe
+539,539,Biostatistician I,"Mech compl of insulin pump, initial encounter",Mozhaysk
+540,540,Staff Accountant II,"Nondisp bicondylar fx unsp tibia, 7thE",Palaió Fáliro
+541,541,Product Engineer,Dislocation of radiocarpal joint of right wrist,Tangjiakou
+542,542,Actuary,"Spinal enthesopathy, lumbosacral region",New Panamao
+543,543,Recruiter,"Displacement of vascular dialysis catheter, init encntr",Pingtang
+544,544,Administrative Officer,"Unsp open wound of unsp toe(s) w/o damage to nail, subs",Shangyang
+545,545,Paralegal,Retinal artery branch occlusion,Longcheng
+546,546,Programmer II,"Condctv hear loss, uni, left ear, w unrestr hear cntra side",Barreiro do Jaíba
+547,547,Community Outreach Specialist,"Traum rupture of unsp ligmt of r rng fngr at MCP/IP jt, init",Heshang
+548,548,Assistant Professor,"Disp fx of acromial process, right shoulder, sequela",Domanín
+549,549,Office Assistant I,Minor laceration of left innominate or subclavian artery,Paoua
+550,550,Graphic Designer,Other rubella complications,Gunungtua
+551,551,Senior Financial Analyst,"Stable burst fx unsp lum vertebra, subs for fx w routn heal",Lunyuk Ode
+552,552,Staff Scientist,Limitation of activities due to disability,Montbéliard
+553,553,Office Assistant I,"Animal-rider injured in collision w 2/3-whl mv, subs",Kolkhozobod
+554,554,Statistician II,Greenstick fracture of shaft of unspecified ulna,Aksu
+555,555,Human Resources Manager,Burn of unspecified degree of back of hand,Nuga
+556,556,Clinical Specialist,"Infct of amniotic sac and membrns, unsp, third tri, fetus 3",La Cumbre
+557,557,Analog Circuit Design manager,"Glaucoma secondary to oth eye disord, right eye, stage unsp",Évry
+558,558,Media Manager III,Newborn affected by oth complications of labor and delivery,Saint Helier
+559,559,Environmental Specialist,"Hyphema, left eye",Yunxi
+560,560,Software Consultant,"Animl-ridr injured by fall fr horse in nonclsn acc, init",Mogwase
+561,561,Assistant Manager,"Retain (old) intraoc fb, nonmag, in oth or mult sites, l eye",Taverny
+562,562,Human Resources Manager,"Laceration w/o fb of r rng fngr w/o damage to nail, sequela",Fengxizhai
+563,563,Research Associate,"Major contusion of spleen, sequela",Zgornje Pirniče
+564,564,Developer I,Congenital pneumonia due to other organisms,Uherský Ostroh
+565,565,Engineer I,Osteochondral fracture of patella,Haiphong
+566,566,Community Outreach Specialist,Other disorders of choroid,Wright
+567,567,Electrical Engineer,Candidiasis of skin and nail,Puyung
+568,568,Health Coach IV,Postproc hemor of right eye and adnexa fol other procedure,Petit Valley
+569,569,Graphic Designer,"Sltr-haris Type IV physeal fx unspecified calcaneus, 7thG",Kruisfontein
+570,570,Biostatistician II,Unspecified dacryocystitis of left lacrimal passage,Dobje pri Planini
+571,571,Assistant Manager,"Spontaneous rupture of flexor tendons, right upper arm",Ngã Bảy
+572,572,Business Systems Development Analyst,"Jump/div into oth water strk bottom cause oth injury, sqla",Sawaengha
+573,573,Media Manager III,"Demyelinating disease of central nervous system, unspecified",Sicheng
+574,574,Automation Specialist IV,"Oth fx lower end of l tibia, subs for clos fx w routn heal",Liugong
+575,575,Dental Hygienist,"Corros 1st deg mult sites of left low limb, ex ank/ft, sqla",Maubara
+576,576,Clinical Specialist,"Oth fx upr and low end l fibula, init for opn fx type 3A/B/C",Yangxunqiao
+577,577,Health Coach III,"Disp fx of unsp tibial spin, 7thM",Santa Magdalena
+578,578,VP Product Management,"Burn of third degree of left scapular region, init encntr",Iquipi
+579,579,Account Executive,Radial styloid tenosynovitis [de Quervain],Yantongtun
+580,580,Systems Administrator I,Traum hemor left cerebrum w/o loss of consciousness,Västerås
+581,581,Research Nurse,"Oth disrd of amniotic fluid and membrns, third tri, oth",Nonghe
+582,582,Recruiting Manager,"Fb in oth and multiple parts of external eye, left eye",Lalig
+583,583,Senior Financial Analyst,Stenosis of incontinent stoma of urinary tract,Chengkan
+584,584,Electrical Engineer,"Drug-induced chronic gout, left hand, without tophus (tophi)",Ponte
+585,585,Administrative Assistant I,"Crushing injury of left ring finger, initial encounter",Loudun
+586,586,Nurse Practicioner,"Sprain of unspecified site of right knee, initial encounter",Tireman Timur
+587,587,Senior Editor,"Oth incomplete lesion at C2, subs",Mambago
+588,588,Senior Editor,"Unsp injury of axillary or brachial vein, unspecified side",Suohe
+589,589,Operator,Traumatic amputation of shoulder and upper arm,Banepa
+590,590,Data Coordinator,Other complications of bone marrow transplant,Rano
+591,591,Social Worker,"Poisoning by anticoagulants, accidental, init",Sorol
+592,592,Office Assistant III,"Squamous blepharitis unspecified eye, unspecified eyelid",Napoli
+593,593,Paralegal,"Nondisp suprcndl fx w/o intrcndl extn low end unsp femr,7thN",Dzüünbulag
+594,594,Cost Accountant,"Major lacerat great saphenous at hip and thi lev, left leg",Qinshan
+595,595,Product Engineer,"Unsp fx lower end of unsp tibia, init for opn fx type I/2",Mubende
+596,596,Senior Developer,Complications of bone marrow transplant,La Paz
+597,597,Project Manager,"Driver injured in collision w unsp mv nontraf, sequela",Troyes
+598,598,Design Engineer,"Labor and delivery complicated by short cord, fetus 3",Orosh
+599,599,Chemical Engineer,"Unsp fx head of unsp femr, 7thR",Hukeng
+600,600,Administrative Officer,Sparganosis,Amparafaravola
+601,601,Database Administrator I,"Congenital malformation of upper alimentary tract, unsp",Dongning
+602,602,Office Assistant I,Minor laceration of thoracic aorta,Orly aérogare
+603,603,Research Associate,"Assault by hot tap water, subsequent encounter",Lisboa
+604,604,Structural Analysis Engineer,Paradoxical insomnia,Maringá
+605,605,Dental Hygienist,Benign neoplasm of unspecified part of eye,Boroon
+606,606,Research Assistant III,"Crushing injury of shoulder and upper arm, unsp arm, init",Lipci
+607,607,Physical Therapy Assistant,"Other specified disorders of tendon, right elbow",Nonsan
+608,608,Programmer Analyst II,"Maternal care for oth rhesus isoimmun, first tri, fetus 5",Karlsruhe
+609,609,Account Executive,"Displ osteochon fx r patella, subs for clos fx w nonunion",Zhangcun
+610,610,Accountant IV,"Displacement of int fix of right femur, init",Beja
+611,611,Assistant Professor,"Other specified disorders of synovium, left hand",Środa Wielkopolska
+612,612,Senior Financial Analyst,"Subluxation of MTP joint of left great toe, subs",Rusocice
+613,613,Environmental Tech,"Low-tension glaucoma, bilateral",Halinów
+614,614,Assistant Manager,Cerebellar and posterior fossa hemorrhage of newborn,Bonriki Village
+615,615,Help Desk Technician,Maternal care for abnormality of vulva and perineum,Changling
+616,616,Nurse,"Fall from, out of or through window, subsequent encounter",Dongfu
+617,617,Administrative Officer,"Antepartum hemorrhage w coag defect, unsp, third trimester",Kleszczów
+618,618,Cost Accountant,"Blister (nonthermal) of unspecified shoulder, subs encntr",Teresita
+619,619,Tax Accountant,"Oth nondisp fx of fifth cervical vertebra, init for clos fx",Działoszyce
+620,620,Senior Financial Analyst,"Disp fx of med epicondyl of r humer, subs for fx w malunion",La Luz
+621,621,Software Test Engineer I,Burns of 90%/more of body surfc w 90%/more third deg burns,Taliouine
+622,622,Senior Developer,"Legal intervention involving baton, law enforc offl injured",Calibishie
+623,623,Safety Technician II,"Sltr-haris Type III physeal fx right metatarsal, 7thP",Ciketak
+624,624,Web Designer IV,"Radiohumeral (joint) sprain of unsp elbow, init encntr",Huangdao
+625,625,Graphic Designer,Delayed or excess hemor fol ectopic and molar pregnancy,Duodaoshi
+626,626,Quality Engineer,"Poisoning by immunoglobulin, assault, sequela",Müllendorf
+627,627,Senior Developer,"Granulation of postmastoidectomy cavity, left ear",Shalkar
+628,628,Nurse Practicioner,"Oth fx shaft of unsp fibula, init for opn fx type 3A/B/C",Nacka
+629,629,Structural Analysis Engineer,"Drown due to oth accident to fishing boat, init",Tsagaandörvölj
+630,630,Nurse Practicioner,"Sltr-haris Type IV physl fx upper end humer, left arm, sqla",Springfield
+631,631,Senior Cost Accountant,"Asphyxiation due to smothering under pillow, undetermined",Rudna
+632,632,Electrical Engineer,"Form of external stoma cause abn react/compl, w/o misadvnt",Cañas
+633,633,Research Nurse,"Oth stimulant use, unsp w stim-induce psychotic disorder",Kalwaria Zebrzydowska
+634,634,Civil Engineer,"Assault by pushing from high place, subsequent encounter",Thai Charoen
+635,635,Social Worker,Radiodermatitis,Saint-Pierre
+636,636,Recruiting Manager,"Partial traumatic amp of unsp shldr/up arm, level unsp, init",Charleston
+637,637,Accounting Assistant III,Occupant of streetcar injured in collision w mtr veh in traf,Ilhabela
+638,638,Structural Analysis Engineer,"Disp fx of med condyle of unsp femr, 7thM",New York City
+639,639,Electrical Engineer,Symptomatic late syphilis of other respiratory organs,Banjar Dauhpangkung
+640,640,Graphic Designer,"Poisoning by antihyperlip and antiarterio drugs, undet",Balud
+641,641,Software Engineer III,Salter-Harris Type I physeal fracture of lower end of tibia,Yangkang
+642,642,Financial Analyst,"Partial traumatic amp at level betw unsp hip and knee, init",Dangbigih
+643,643,Staff Scientist,"Injury of digital nerve of left index finger, sequela",Plyussa
+644,644,Software Consultant,"Recurrent dislocation, hand and finger(s)",Bílovec
+645,645,Account Coordinator,Iminostilbenes,Tambak
+646,646,Operator,"Poisoning by salicylates, undetermined, subsequent encounter",Hoeryŏng
+647,647,Environmental Tech,"Complete traumatic amputation of left lower leg, level unsp",Mīrpur Sakro
+648,648,Director of Sales,"Muscle wasting and atrophy, NEC, forearm",Pargas
+649,649,Account Representative II,Calcinosis cutis,Qing’an
+650,650,Internal Auditor,Nontraumatic subarachnoid hemorrhage from r verteb art,Nantes
+651,651,Analyst Programmer,"Unsp physl fx upr end humer, unsp arm, 7thK",Paris
+652,652,Web Developer III,Occup of hv veh injured in collision w pedal cycle in traf,Toulon
+653,653,Media Manager I,"Nondisp longitud fx r patella, 7thM",Paris
+654,654,VP Marketing,"Spinal enthesopathy, cervical region",Balrothery
+655,655,Recruiting Manager,Exfoliatn due to erythemat cond w < 10 pct of body surface,Villa Cañás
+656,656,Executive Secretary,"Lymphoblastic lymphoma, extrnod and solid organ sites",Linköping
+657,657,Operator,"Pre-existing essential htn comp pregnancy, second trimester",San Miguel
+658,658,Operator,"Pathological fracture, right femur, subs for fx w malunion",Tatrang
+659,659,Software Test Engineer I,"Displ spiral fx shaft of r fibula, 7thE",Paris
+660,660,Product Engineer,Contact with other nonvenomous reptiles,Nizhnepavlovka
+661,661,Quality Engineer,"Oth physl fx lower end unsp femur, subs for fx w routn heal",San Carlos
+662,662,Engineer II,Encounter for removal of intrauterine contraceptive device,Meijiang
+663,663,Analog Circuit Design manager,"Occup of bus injured in collision w hv veh in traf, subs",San Antonio
+664,664,Software Engineer IV,Oth rheumatoid arthritis w rheumatoid factor of unsp wrist,Sangzhou
+665,665,Health Coach I,"Other spondylosis, lumbar region",Pasiraman
+666,666,Analog Circuit Design manager,"Oth nondisp fx of upper end r humer, subs for fx w nonunion",Kuching
+667,667,Teacher,"Fracture of unsp part of r clavicle, subs for fx w malunion",Bularit
+668,668,Physical Therapy Assistant,"Displ commnt fx shaft of rad, r arm, 7thF",Bakar
+669,669,Associate Professor,Argentous corneal deposits,Chaniá
+670,670,Analog Circuit Design manager,Hallucinogen abuse with intoxication,Błaszki
+671,671,Accounting Assistant I,"Poisoning by tetracyclic antidepressants, self-harm",Luobei
+672,672,Financial Analyst,"Oth generalized epilepsy, intractable",Thành Phố Uông Bí
+673,673,Senior Sales Associate,"Subluxation of MTP joint of right lesser toe(s), init",Santo Antônio do Monte
+674,674,Media Manager IV,"Dislocation of MCP joint of right little finger, sequela",Villa Mercedes
+675,675,Internal Auditor,Laceration of flexor musc/fasc/tend r rng fngr at wrs/hnd lv,Lopatyn
+676,676,Senior Sales Associate,"Displ commnt fx shaft of l femr, 7thM",Zapala
+677,677,Account Coordinator,Laceration with foreign body of unspecified ear,Urek-urek
+678,678,General Manager,Other chromoabnormalities of urine,Kizilyurt
+679,679,Database Administrator III,"External constriction of part of breast, unsp breast, init",Hisor
+680,680,Legal Assistant,"Superficial foreign body of unsp part of neck, subs encntr",Sosnovka
+681,681,Database Administrator IV,"Oth fx lower end of right ulna, subs for clos fx w nonunion",Pamoyanan
+682,682,Information Systems Manager,Postproc cerebvasc infarction following cardiac surgery,Houba
+683,683,Developer I,"Unspecified keratoconjunctivitis, unspecified eye",Kosaya Gora
+684,684,Web Developer IV,"Strain of musc/fasc/tend at thigh level, left thigh, subs",Arroyo Seco
+685,685,Research Assistant I,"Laceration of unsp musc/fasc/tend at thigh level, unsp thigh",Heshan
+686,686,Mechanical Systems Engineer,"Complication of the puerperium, unspecified",Olímpia
+687,687,Legal Assistant,Traum rupture of unsp ligmt of l little finger at MCP/IP jt,Peicheng
+688,688,Administrative Assistant IV,"Displ longitud fx left patella, subs for clos fx w nonunion",Smimou
+689,689,Computer Systems Analyst III,"Toxic effect of contact w venomous marine plant, undet, subs",Awka
+690,690,Engineer II,"Oth fracture of fourth metacarpal bone, right hand, sequela",Albi
+691,691,Financial Advisor,Retained (old) magnetic foreign body in lens,Santiago de Chuco
+692,692,Senior Sales Associate,"Skeletal fluorosis, multiple sites",Roun Satu
+693,693,Structural Analysis Engineer,"Infection oth prt genitl trct in pregnancy, third trimester",Monkey Hill
+694,694,Editor,"Lichen planus, unspecified",Kunjāh
+695,695,GIS Technical Architect,"Open bite of unsp bk wl of thorax w penet thor cavity, subs",Strašice
+696,696,Help Desk Operator,"Other infective (teno)synovitis, shoulder",Predavac
+697,697,Desktop Support Technician,Concentric sclerosis [Balo] of central nervous system,Pochayiv
+698,698,Professor,Acute bronchitis due to echovirus,Karangdawa Barat
+699,699,Budget/Accounting Analyst II,Unsp abnormal cytolog findings in specmn from cervix uteri,Yarīm
+700,700,Senior Cost Accountant,"Displ oblique fx shaft of l ulna, init for opn fx type I/2",Canala
+701,701,Software Consultant,Cutaneous mucormycosis,Paragominas
+702,702,Data Coordinator,"Nondisp fx of med condyle of l tibia, 7thD",Santa Lucía
+703,703,Web Developer II,"Nondisp fx of mid 3rd of navic bone of unsp wrs, 7thG",Tromsø
+704,704,Software Consultant,"Sltr-haris Type III physl fx upper end humer, r arm, 7thD",Blantyre
+705,705,Help Desk Technician,"Nondisp fx of prox 3rd of navic bone of l wrs, 7thD",Tian’an
+706,706,Paralegal,Other physeal fracture of phalanx of unspecified toe,San Fabian
+707,707,Civil Engineer,"Other physeal fracture of left calcaneus, 7thK",Aplahoué
+708,708,Assistant Manager,"Nondisp fx of lateral condyle of unsp femr, 7thN",Stockholm
+709,709,Graphic Designer,"Prsn brd/alit mtrcy injured pick-up truck, pk-up/van, init",Ciechanowiec
+710,710,Tax Accountant,"Xeroderma of left eye, unspecified eyelid",Rtishchevo
+711,711,GIS Technical Architect,Unspecified protein-calorie malnutrition,Datong
+712,712,Information Systems Manager,"Maternal care for disproportion, unspecified",Varberg
+713,713,Dental Hygienist,"War operations involving unsp fire/conflagr/hot subst, milt",Pukekohe East
+714,714,Executive Secretary,"Toxic effect of detergents, undetermined, initial encounter",Yongyang
+715,715,Internal Auditor,"Crushing injury of scrotum and testis, initial encounter",Qinglung
+716,716,General Manager,"Legal intervnt w oth sharp objects, suspect injured, init",Saripin
+717,717,Data Coordinator,Minor laceration of right internal jugular vein,Si Khoraphum
+718,718,Account Coordinator,"Displ seg fx shaft of unsp fibula, 7thJ",Fangtai
+719,719,Assistant Manager,"Oth athscl nonaut bio bypass of the extrm, oth extremity",Gyodong
+720,720,Legal Assistant,"Dislocation of interphalangeal joint of unsp toe(s), init",Bang Kruai
+721,721,Analog Circuit Design manager,"Tox eff of unsp halgn deriv of aromat hydrocrb, undet, subs",Pombal
+722,722,Project Manager,"Inj to rider of recreatl wtrcrft puld beh oth wtrcrft, init",Chumphon Buri
+723,723,Engineer II,"Labyrinthine dysfunction, right ear",Carhuac
+724,724,Recruiter,"Sltr-haris Type I physl fx low end l fibula, 7thP",Huimin
+725,725,Developer II,"Other fracture of right great toe, sequela",Gavrilov-Yam
+726,726,Office Assistant III,"Unsp comp of fb acc left in body following heart cath, subs",Oke Mesi
+727,727,Account Executive,"Pathological fracture in other disease, other site, sequela",Jaguaribe
+728,728,Environmental Specialist,"Retinal micro-aneurysms, unspecified, left eye",Pelileo
+729,729,Chemical Engineer,Oth diab w moderate nonprlf diabetic rtnop w macular edema,Placer
+730,730,Sales Representative,"Preterm labor with preterm delivery, unspecified trimester",Darungan
+731,731,Assistant Media Planner,"Toxic effect of ethanol, undetermined, subsequent encounter",Speightstown
+732,732,Assistant Professor,"Jump/div into oth water striking wall causing drown, subs",Tangzang
+733,733,Nuclear Power Engineer,"Contact with other hot fluids, initial encounter",Dadong’ao
+734,734,Research Nurse,"Poisoning by peripheral vasodilators, accidental, subs",Sanjinquan
+735,735,Professor,"Lead-induced chronic gout, hip",Dashkawka
+736,736,Sales Representative,"Traum subdr hem w LOC of 6 hours to 24 hours, subs",La Coipa
+737,737,Teacher,"Milt op w dest arcrft due to enmy fire/expls, milt, init",La Peña
+738,738,Accounting Assistant IV,"Partial traum amp at level betw left hip and knee, sequela",Cimo de Vila
+739,739,Business Systems Development Analyst,Passenger in 3-whl mv injured in collision w unsp mv in traf,Ciorescu
+740,740,Administrative Assistant II,"Sltr-haris Type I physeal fx upper end of r tibia, sequela",Rupe
+741,741,Marketing Manager,"Self-harm by oth gas, air or spring-operated gun, subs",Bradashesh
+742,742,Nuclear Power Engineer,"Extranodal NK/T-cell lymphoma, nasal type",Nanchoc
+743,743,Web Designer II,"Poisoning by unsp fibrin-affct drugs, accidental",Bugojno
+744,744,VP Product Management,"Laceration of heart, unsp w or w/o hemopericardium, init",Kvissleby
+745,745,Clinical Specialist,"Type 1 diab w prolif diab rtnop w trctn dtch macula, r eye",Nipawin
+746,746,Budget/Accounting Analyst IV,"Toxic effect of cntct w Portugese Man-o-war, asslt, sequela",Khandagayty
+747,747,Biostatistician I,"Underdosing of salicylates, sequela",Bejuco
+748,748,Human Resources Manager,"Displ midcervical fx unsp femr, 7thG",Dohār
+749,749,Graphic Designer,Disorders of other specified cranial nerves,Jaga
+750,750,Senior Editor,Benign neoplasm of eye and adnexa,Cikalang
+751,751,Safety Technician II,"Sltr-haris Type III physeal fracture of r calcaneus, sequela",Haibeitou
+752,752,Editor,Benign carcinoid tumor of the bronchus and lung,La Sierpe
+753,753,Editor,"Complete lesion at C3 level of cervical spinal cord, sequela",Leuwihalang
+754,754,Recruiting Manager,"Laceration w fb of left thumb w damage to nail, sequela",Shisandaogou
+755,755,Senior Sales Associate,"Osteopathy in diseases classified elsewhere, right lower leg",Ngarus
+756,756,Senior Cost Accountant,"Mech compl of nephrostomy catheter, subsequent encounter",Napierville
+757,757,Recruiting Manager,"Impetigo, unspecified",Rengasdengklok
+758,758,Civil Engineer,"Unsp fx shaft of unsp tibia, subs for clos fx w delay heal",Pathum Rat
+759,759,Project Manager,"Toxic effect of venom of other spider, assault, sequela",Larnaca
+760,760,Senior Quality Engineer,"Infect/inflm react d/t oth cardi/vasc dev/implnt/grft, sqla",Monastir
+761,761,Software Consultant,"Drown due to unsp watercraft overturning, subs",Comallo
+762,762,GIS Technical Architect,Nonadministration of surgical and medical care,Xianbao
+763,763,Nurse,"Frostbite with tissue necrosis of left ankle, subs encntr",Bakovci
+764,764,Account Coordinator,Other superficial bite of lower leg,Chiscas
+765,765,Chief Design Engineer,Essential fatty acid [EFA] deficiency,18 de Marzo
+766,766,Paralegal,"Malposition of ureter, unspecified",Santa Monica
+767,767,Chemical Engineer,Atherosclerosis of CABG w/o angina pectoris,Sîr ed Danniyé
+768,768,Chief Design Engineer,"Displaced avulsion fx unsp ilium, subs for fx w nonunion",Borek Wielkopolski
+769,769,Staff Accountant IV,"Felty's syndrome, unspecified elbow",Buan
+770,770,General Manager,"Unspecified child maltreatment, confirmed, sequela",Caldas da Felgueira
+771,771,Quality Engineer,Sprain of metacarpophalangeal joint of left ring finger,Olszówka
+772,772,Librarian,Cutaneous abscess of right foot,Vitória da Conquista
+773,773,GIS Technical Architect,"Anterior subluxation of left humerus, subsequent encounter",Sjöbo
+774,774,Analyst Programmer,"Disp fx of med epicondyl of r humer, subs for fx w malunion",Lilla Edet
+775,775,Administrative Assistant III,"Adverse effect of unspecified psychostimulants, init encntr",Järfälla
+776,776,Food Chemist,"Other infective bursitis, unspecified ankle and foot",Santa Cruz
+777,777,Structural Analysis Engineer,"Nondisp spiral fx shaft of humer, l arm, 7thG",Cipatat
+778,778,Food Chemist,"Acustc neuritis in infec/parastc dis classd elswhr, r ear",Peña Blanca
+779,779,Assistant Media Planner,"Legal intervnt w oth means, law enforc offl injured, subs",Wailolong
+780,780,Technical Writer,"Poisoning by oth antacids and anti-gstrc-sec drugs, assault",Sawaengha
+781,781,Graphic Designer,Contusion of tail of pancreas,Fengcheng
+782,782,Project Manager,Traumatic amputation at level between shoulder and elbow,Matang
+783,783,VP Sales,"Puncture wound w/o foreign body, right lower leg, init",Fuji
+784,784,Computer Systems Analyst I,"Occ of rail trn/veh injured by fall in rail trn/veh, sequela",Karlshamn
+785,785,Pharmacist,"Laceration of ovary, bilateral, subsequent encounter",Kumagaya
+786,786,Librarian,"Accidental discharge of gas, air or sprng-op gun, subs",Yunlong
+787,787,Paralegal,Oth disturbances of temperature regulation of newborn,Molave
+788,788,Senior Cost Accountant,Speech/lang deficits following oth cerebrovascular disease,Ngala
+789,789,VP Quality Control,Hemiplga following ntrm intcrbl hemor aff left dominant side,Heshe
+790,790,Junior Executive,Functional urinary incontinence,Holoriang
+791,791,Administrative Officer,"Toxic effect of carb monx from utility gas, accidental",Tiguha
+792,792,Information Systems Manager,Oth diabetes w severe nonprlf diabetic rtnop w macular edema,Nordeste
+793,793,Administrative Officer,"Unsp physeal fracture of lower end of left fibula, sequela",Taquari
+794,794,Research Nurse,Traumatic rupture of ligament of l rng fngr at MCP/IP jt,Jinguoping
+795,795,Software Test Engineer IV,Secondary malignant neoplasm of right ovary,Sant Julià de Lòria
+796,796,Help Desk Technician,"Car passenger injured in clsn w nonmtr vehicle in traf, init",Newton
+797,797,Paralegal,"Displ transverse fx unsp patella, 7thP",Ottawa
+798,798,Librarian,"Poisoning by antithrombotic drugs, self-harm, init",Hällefors
+799,799,Senior Editor,"Poisoning by unsp psychotropic drug, self-harm, init",Suchy Dąb
+800,800,Data Coordinator,"Nondisp fx of dist phalanx of r less toe(s), 7thG",Chahār Burj
+801,801,Research Nurse,"Displaced spiral fracture of shaft of humerus, right arm",Mihara
+802,802,Chemical Engineer,"Localized swelling, mass and lump, lower limb",Xinan
+803,803,Quality Engineer,"Nondisp artic fx head of l femr, subs for clos fx w nonunion",Ochota
+804,804,Junior Executive,"Milt op involving unsp explosn and fragments, civilian, subs",Bagacay
+805,805,GIS Technical Architect,"Nondisp fx of lower epiphy (separation) of unsp femur, init",Fenshui
+806,806,Civil Engineer,Corros 90%/more of body surface w 10-19% third degree corros,Želiv
+807,807,Assistant Manager,"Disp fx of capitate bone, unsp wrs, subs for fx w delay heal",Hamburg Bramfeld
+808,808,VP Quality Control,"Drug-induced chronic gout, left hand, without tophus (tophi)",Kvitok
+809,809,Software Test Engineer I,Displaced subtrochanteric fracture of right femur,T’ongch’ŏn-ŭp
+810,810,Accountant III,"Nondisp fx of unsp tibial spin, 7thJ",Knjazevac
+811,811,Legal Assistant,"Other recurrent vertebral dislocation, thoracolumbar region",Waegwan
+812,812,Operator,"Poisoning by methadone, assault, subsequent encounter",Banjeru
+813,813,GIS Technical Architect,"Toxic eff of nitrodrv/aminodrv of benzn/homolog, asslt, init",Sandviken
+814,814,Marketing Manager,Aneurysm of carotid artery,Tiaong
+815,815,Physical Therapy Assistant,"Superficial foreign body, left lesser toe(s), subs encntr",Ostrogozhsk
+816,816,Senior Quality Engineer,"Contact with hay derrick, subsequent encounter",Aristóbulo del Valle
+817,817,Chemical Engineer,"Calcifcn and ossifictn of muscles assoc w burns, mult sites",Bayt ‘Adhāqah
+818,818,Civil Engineer,"Separation of muscle (nontraumatic), left lower leg",Luohe
+819,819,Structural Engineer,"Unsp fx shaft of unsp femur, subs for clos fx w malunion",Gąbin
+820,820,Environmental Specialist,Neoplasm of uncertain behavior of lip,Tuopu Luke
+821,821,Human Resources Assistant III,"Nondisp transverse fx shaft of r ulna, 7thR",Radziszów
+822,822,Staff Scientist,"Sltr-haris Type II physl fx upr end rad, l arm, 7thP",Xiaolan
+823,823,Automation Specialist II,"Nondisp fx of anterior process of unsp calcaneus, init",Fajã de Cima
+824,824,Desktop Support Technician,Premature separation of placenta [abruptio placentae],Dudchany
+825,825,Web Designer II,"Burn of first degree of right shoulder, subsequent encounter",Kodinsk
+826,826,Engineer III,"Nondisp trimalleol fx l low leg, 7thJ",Murici
+827,827,Media Manager I,"Other specified crystal arthropathies, right elbow",Ciomas
+828,828,Business Systems Development Analyst,"Extrapyramidal and movement disorder, unspecified",Jelcz
+829,829,Actuary,"Laceration of musc/fasc/tend at forearm level, right arm",Cluain Meala
+830,830,Analyst Programmer,"Ped on rolr-skt injured in collision w hv veh, unsp, init",Skórzec
+831,831,Software Consultant,"Other sprain of left thumb, sequela",Hongtang
+832,832,Civil Engineer,"Underdosing of antiparkns drug/centr musc-tone depr, sequela",Bakuriani
+833,833,Dental Hygienist,"Disp fx of l ulna styloid pro, 7thE",Laxou
+834,834,Mechanical Systems Engineer,"Brkdwn other nervous sys device, implant or graft, sequela",Lengor
+835,835,Financial Analyst,"Person outside hv veh inj in clsn w ped/anml in traf, subs",Kuruman
+836,836,Senior Financial Analyst,"Toxic effect of contact w venomous toad, self-harm, subs",Otrokovice
+837,837,General Manager,"Barton's fx r radius, subs for opn fx type I/2 w routn heal",Jevíčko
+838,838,Environmental Tech,"Disp fx of shaft of unsp metacarpal bone, init for opn fx",Hyesan-dong
+839,839,Assistant Media Planner,"Unsp fracture of unsp patella, init for opn fx type 3A/B/C",Dahe
+840,840,Geological Engineer,"Choroidal rupture, left eye",Groningen
+841,841,Assistant Professor,"Disord of amnio fluid and membrns, unsp, second tri, fetus 2",Eséka
+842,842,Human Resources Assistant I,"Corrosion of second degree back of unspecified hand, sequela",Kari
+843,843,Systems Administrator I,"Mech compl of implnt elec nstim of brain lead, subs",Oleksandriya
+844,844,Product Engineer,Nondisp associated transv/post fracture of unsp acetabulum,Fort Wayne
+845,845,Director of Sales,"Subluxation of proximal interphaln joint of l idx fngr, init",Sadao
+846,846,GIS Technical Architect,"Torus fracture of upper end of right ulna, sequela",Bhamo
+847,847,Administrative Assistant I,"Agenesis, aplasia and hypoplasia of gallbladder",Varkaus
+848,848,Data Coordinator,"Open bite of right index finger w/o damage to nail, sequela",Zhangyang
+849,849,Recruiter,"War op w explosn of sea-based artlry shell, milt, init",Campos Belos
+850,850,Associate Professor,Hyperoxaluria,Quxi
+851,851,Quality Engineer,"Major depressv disord, single epsd, severe w psych features",Mutis
+852,852,Food Chemist,"Poisoning by unsp agents aff the GI sys, undetermined, init",Qufu
+853,853,VP Accounting,"Acquired epidermolysis bullosa, unspecified",Fonadhoo
+854,854,Registered Nurse,Type 2 diabetes mellitus with hyperosmolarity,Tokushima-shi
+855,855,Teacher,"Unspecified injury of celiac artery, subsequent encounter",Wakkanai
+856,856,Chief Design Engineer,Drown due to being washed overboard from merchant ship,Saint-André-Avellin
+857,857,Electrical Engineer,"Mucosal cyst of postmastoidectomy cavity, bilateral ears",Sebu
+858,858,Teacher,"Bent bone of left ulna, subs for clos fx w routn heal",Liperi
+859,859,Professor,Other psychoactive substance abuse with intoxication,Niigata-shi
+860,860,Pharmacist,"Chronic migraine w/o aura, intractable, w status migrainosus",Derzhavīnsk
+861,861,Structural Analysis Engineer,Animl-ridr injured by fall fr horse in noncollision accident,Catarman
+862,862,Internal Auditor,"Oth mult gest w two or more monochorionic fetuses, 2nd tri",Malpique
+863,863,Analog Circuit Design manager,"Anaphyl react due to advrs eff drug/med prop admin, sequela",Francisco J Mujica
+864,864,Technical Writer,"Unsp fracture of T7-T8 vertebra, init for clos fx",Liancheng
+865,865,Environmental Tech,Other cervical disc displacement at C5-C6 level,Rushanzhai
+866,866,Developer IV,"Pain due to cardiac prosthetic devices, implants and grafts",Satovcha
+867,867,Project Manager,Posterior subluxation of unspecified hip,Capalayan
+868,868,Civil Engineer,"Neoplasm of uncertain behavior of female genital organ, unsp",Mengxi
+869,869,Design Engineer,"Oth osteopor w current pathological fracture, unsp shoulder",Amgalang
+870,870,Clinical Specialist,"Infect/inflm react due to int fix of unsp bone of leg, sqla",Bafoulabé
+871,871,General Manager,"Stress fx, unsp ulna and radius, subs for fx w nonunion",Lieyu
+872,872,Professor,"Displ commnt fx shaft of r femr, 7thN",Charenton-le-Pont
+873,873,Professor,Displaced fracture of neck of unspecified talus,Kofelē
+874,874,VP Accounting,"Radiodermatitis, unspecified",Moutsamoudou
+875,875,Senior Cost Accountant,"Oth fx shaft of left tibia, subs for clos fx w routn heal",Novo Cruzeiro
+876,876,Accounting Assistant II,"Maternal care for transverse and oblique lie, other fetus",Al Ḩarajah
+877,877,Human Resources Assistant IV,"Superficial frostbite of right wrist, sequela",London
+878,878,Civil Engineer,Strain of flexor musc/fasc/tend l idx fngr at wrs/hnd lv,Лабуништа
+879,879,Human Resources Assistant IV,"Disp fx of lunate, unsp wrist, init encntr for open fracture",Bansalan
+880,880,Account Coordinator,"Contusion of unsp lesser toe(s) w damage to nail, subs",Jiangzhou
+881,881,Legal Assistant,"Nondisp pilon fx unsp tibia, 7thJ",Legionowo
+882,882,Senior Cost Accountant,"Crush inj unsp part(s) of unsp wrist, hand and fingers, subs",Laboulaye
+883,883,Assistant Professor,"Arthropathies in oth diseases classified elsewhere, hip",Citundun
+884,884,Accountant II,"Strain of intrinsic musc/fasc/tend thmb at wrs/hnd lv, subs",Morris
+885,885,Quality Control Specialist,Other specified pulmonary heart diseases,Padre Bernardo
+886,886,Analog Circuit Design manager,"Nondisp midcervical fx l femr, 7thN",Golovchino
+887,887,Junior Executive,"Toxic effect of rodenticides, undetermined, subs encntr",Trnava
+888,888,Sales Representative,"Non-follic lymph, unsp, nodes of ing region and lower limb",San Juan
+889,889,Database Administrator IV,"Nondisp fx of base of 2nd MC bone. l hand, 7thG",Hongxi
+890,890,Technical Writer,Infection due to other mycobacteria,Qingu
+891,891,Statistician II,"Bent bone of right radius, subs for clos fx w nonunion",Makoba
+892,892,Registered Nurse,"Mycobacterial infection, unspecified",Rantīs
+893,893,Project Manager,"Unsp superficial injury of left little finger, subs encntr",Magapit
+894,894,GIS Technical Architect,Newborn affected by other maternal conditions,Longping
+895,895,Safety Technician III,"Unsp fx upper end of unsp radius, init for opn fx type I/2",Alverca do Ribatejo
+896,896,GIS Technical Architect,"Unsp car occupant injured in clsn w pedl cyc in traf, init",Barrunchal
+897,897,Clinical Specialist,Unspecified sprain of unspecified hip,Elat
+898,898,Programmer Analyst IV,"Nondisp fx of less trochanter of r femr, 7thB",Capellanía
+899,899,Human Resources Assistant II,Contact with alligator,Yangzi
+900,900,Information Systems Manager,"Brown-Sequard syndrome at C2, subs",Penebel
+901,901,Chemical Engineer,"Nondisplaced avulsion fracture of unsp ischium, init",Rayside-Balfour
+902,902,Software Engineer III,"Torus fx lower end of r fibula, subs for fx w malunion",Petaling Jaya
+903,903,Senior Developer,"Oth physl fx low end humer, r arm, subs for fx w nonunion",Monte Patria
+904,904,Technical Writer,"Unsp inj musc/tend post grp at low leg lev, right leg, sqla",Świętochłowice
+905,905,Editor,"Hypertensive retinopathy, bilateral",Gutalac
+906,906,Human Resources Assistant II,"Toxic effect of halogenated insecticides, undetermined, init",Ribamar
+907,907,Senior Sales Associate,"Toxic effect of unspecified inorganic substance, assault",Komyshuvakha
+908,908,Compensation Analyst,"Intraop hemor/hemtom of skin, subcu complicating a procedure",Domalanoan
+909,909,Web Designer II,Accidental pnctr & lac of a circ sys org dur proc,Šmarje pri Jelšah
+910,910,Staff Accountant IV,Crushing injury of right middle finger,Aniso
+911,911,VP Product Management,"Laceration of blood vessel of right thumb, initial encounter",Krajan
+912,912,Safety Technician II,Personal history of certain other diseases,Sertânia
+913,913,Research Associate,"Oth fx head/neck of unsp femr, 7thQ",Sampangan
+914,914,Paralegal,"Poisoning by alpha-adrenocpt antag, accidental, sequela",Senggreng
+915,915,Assistant Manager,"Unsp inj extn musc/fasc/tend l mid finger at forarm lv, init",Tabogon
+916,916,Budget/Accounting Analyst IV,"Laceration of blood vessels at forarm lv, right arm, sequela",Tharyarwady
+917,917,Chemical Engineer,"Injury of brachial plexus, subsequent encounter",Vallentuna
+918,918,Sales Representative,"Pathological fracture in oth disease, left radius, init",Medicine Hat
+919,919,Recruiting Manager,"Dislocation of tarsal joint of unspecified foot, sequela",Roma
+920,920,Quality Control Specialist,Occupant of streetcar injured in collision with other object,Zhengchang
+921,921,Product Engineer,"LeFort I fracture, initial encounter for open fracture",Toyota
+922,922,Operator,"Breakdown (mechanical) of surgically created AV shunt, subs",Terrugem
+923,923,Marketing Assistant,"Arthralgia of temporomandibular joint, unspecified side",Uusikaupunki
+924,924,Assistant Professor,"Type III traum spondylolysis of 4th cervcal vert, 7thG",Kyaikkami
+925,925,Food Chemist,"Central retinal vein occlusion, left eye, with macular edema",Florida
+926,926,Senior Financial Analyst,"Primary blast injury of sigmoid colon, initial encounter",Slovenske Konjice
+927,927,Structural Analysis Engineer,"Unsp opn wnd low back and pelv w/o penet retroperiton, sqla",Choropampa
+928,928,Speech Pathologist,"Struck by other nonvenomous reptiles, initial encounter",Si Racha
+929,929,Data Coordinator,"Chronic postrheumatic arthropathy [Jaccoud], left hand",Xianqiao
+930,930,Account Coordinator,"Disp fx of 5th metatarsal bone, l ft, subs for fx w nonunion",Vila do Bispo
+931,931,Developer II,"Poisoning by mineralocorticoids and their antag, undet, subs",Viking
+932,932,Structural Analysis Engineer,Abn lev substnc nonmed source in specmn from male gntl org,Kochevo
+933,933,Clinical Specialist,"Other osteonecrosis, right hand",Chattanooga
+934,934,Social Worker,Injury of cervical sympathetic nerves,Richibucto
+935,935,Help Desk Technician,Morquio B mucopolysaccharidoses,Shangyi
+936,936,Associate Professor,"Milt op w explosn of unsp marine weapon, milt, sequela",Porto Formoso
+937,937,Software Consultant,"Injury of unsp nerve at lower leg level, left leg, sequela",Ermelo
+938,938,Help Desk Operator,"Skeletal fluorosis, right forearm",Pho Thale
+939,939,Media Manager III,"Conjunctival pigmentations, left eye",Lieyu
+940,940,Automation Specialist I,"Unsp inj msl/tnd lng flxr msl toe at ank/ft lev, r ft, sqla",Linquan
+941,941,Assistant Manager,"Crushing inj unsp part(s) of r wrist, hand and fingers, subs",Sidi Yahia el Gharb
+942,942,Automation Specialist III,"Sltr-haris Type III physeal fx unspecified metatarsal, 7thG",Ulan Hua
+943,943,Structural Engineer,Systemic antibiotics,Sōka
+944,944,Marketing Manager,"Displacement of femoral arterial graft (bypass), subs encntr",Wudabao
+945,945,Automation Specialist II,"Unsp fracture of unsp lower leg, subs for clos fx w malunion",Nailong
+946,946,Electrical Engineer,"Unsp physeal fx lower end of ulna, unsp arm, sequela",São Mamede de Infesta
+947,947,Web Developer I,"Oth fx lower end of unsp tibia, subs for clos fx w nonunion",Rizokárpaso
+948,948,Developer I,"Corrosion of unspecified degree of chest wall, init encntr",Aral
+949,949,Electrical Engineer,"Stable burst fracture of T7-T8 vertebra, sequela",San Bernardo
+950,950,Design Engineer,"Maternal care for oth fetal problems, first trimester",Almaguer
+951,951,Occupational Therapist,"Granulation of postmastoidectomy cavity, unspecified ear",Bol’shaya Setun’
+952,952,Programmer IV,"Burn unsp degree of shldr/up lmb, except wrs/hnd, unsp site",Zhangbei
+953,953,Health Coach III,"Unspecified fracture of shaft of unspecified tibia, sequela",Banjar Tiga
+954,954,Software Test Engineer III,"Fracture of alveolus of left mandible, 7thG",Fort Worth
+955,955,Computer Systems Analyst III,"Unsp physeal fx lower end of humerus, unsp arm, sequela",Trzciana
+956,956,Account Representative I,"Laceration of diaphragm, initial encounter",Nandaime
+957,957,Help Desk Operator,"Traumatic rupture of unsp ligament of left wrist, subs",Auriflama
+958,958,Staff Scientist,"Poisoning by drugs affecting uric acid metab, acc, init",Sungai Iyu
+959,959,Computer Systems Analyst III,Stenosis of pulmonary artery,Kuzovatovo
+960,960,Associate Professor,Cereb infrc due to unsp occls or stenos of right carotid art,Soukkouma
+961,961,Analog Circuit Design manager,Cysticercosis of other sites,Taibao
+962,962,Clinical Specialist,"Pnctr w fb of l bk wl of thorax w penet thor cavity, init",Napu
+963,963,Assistant Manager,"Oth injury of unspecified vertebral artery, init encntr",Dagui
+964,964,VP Sales,"Retinopathy of prematurity, unspecified, unspecified eye",Savran’
+965,965,Help Desk Operator,"Nondisplaced bicondylar fracture of unsp tibia, init",Balakhninskiy
+966,966,Analyst Programmer,"Staphylococcal arthritis, right knee",Shisui
+967,967,Clinical Specialist,Other transplanted organ and tissue status,Caçapava do Sul
+968,968,Programmer Analyst IV,Oth diabetes mellitus with other circulatory complications,Bagdadi
+969,969,Safety Technician III,Benign neoplasm of left ovary,San Miguel Ixtahuacán
+970,970,Business Systems Development Analyst,Unspecified fracture of shaft of unspecified ulna,Jiaocheng
+971,971,Budget/Accounting Analyst I,"Fracture of other part of scapula, right shoulder, sequela",Cikujang
+972,972,Operator,"Crushing injury of unspecified right toe(s), init encntr",Barra de Carrasco
+973,973,Computer Systems Analyst I,"Contact with other hot metals, sequela",Moppo
+974,974,Analog Circuit Design manager,"Perforated corneal ulcer, bilateral",Fenais da Luz
+975,975,Accountant I,Merkel cell carcinoma of other parts of face,Maayong Tubig
+976,976,Environmental Tech,"Corrosion of unspecified degree of unspecified knee, sequela",Jagabaya Dua
+977,977,Internal Auditor,Sepsis due to unspecified staphylococcus,Oyonnax
+978,978,Structural Engineer,"Inj oth blood vessels at hip and thi lev, right leg, sequela",San Nicolás
+979,979,Help Desk Technician,Unspecified dislocation of unspecified thumb,L-Iklin
+980,980,Structural Engineer,Oth dis of the bld/bld-form org/immun mechnsm comp chldbrth,Talitsy
+981,981,Chief Design Engineer,"Poisoning by butyrophen/thiothixen neuroleptc, undetermined",Krajanbaturno
+982,982,Clinical Specialist,"Underdosing of phenothiazine antipsychot/neurolept, init",Guarulhos
+983,983,Business Systems Development Analyst,"Oth intartic fracture of lower end of unsp radius, init",Banjar Petak
+984,984,Quality Control Specialist,"Unspecified subluxation of right knee, sequela",Aubergenville
+985,985,Quality Control Specialist,Lichen simplex chronicus and prurigo,Kwakoa
+986,986,Financial Advisor,"Nondisp fx of medial epicondyle of r humerus, sequela",Libu
+987,987,Senior Sales Associate,Flu due to unidentified flu virus w unsp type of pneumonia,San Cristóbal
+988,988,Staff Scientist,"Underdosing of other synthetic narcotics, sequela",Honghualiangzi
+989,989,Physical Therapy Assistant,"Traum rupt of collat ligmt of unsp finger at MCP/IP jt, init",Roriz
+990,990,Internal Auditor,"Nondisp fx of neck of fourth MC bone, right hand, init",Calingcing
+991,991,Developer III,"Toxic effect of dichloromethane, assault, sequela",Bandaragung
+992,992,Web Developer III,"Other fracture of left patella, sequela",Qohord-e Bālā
+993,993,Speech Pathologist,"Pathological fracture, oth site, subs for fx w routn heal",Nizhniye Achaluki
+994,994,Programmer Analyst I,Obstetric high vaginal laceration alone,Pedro Santana
+995,995,Dental Hygienist,"Poisoning by digestants, undetermined, sequela",Guankou
+996,996,Accountant IV,Disorders of optic chiasm in (due to) other disorders,Jiumen
+997,997,Database Administrator I,Oth and unsp malignant neoplasm skin/ and unsp parts of face,Hanjiashu
+998,998,Structural Analysis Engineer,"Dislocation of jaw, right side",Oriximiná
+999,999,Nuclear Power Engineer,"Laceration with foreign body of left forearm, sequela",Dengjia
+1000,1000,Senior Quality Engineer,Other abnormal auditory perceptions,Lanos
