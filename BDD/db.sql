@@ -1,3 +1,6 @@
+CREATE DATABASE IF NOT EXISTS wcs;
+USE wcs;
+
 CREATE TABLE IF NOT EXISTS `recruiter` (
 	`id` integer primary key NOT NULL UNIQUE,
 	`login` TEXT NOT NULL UNIQUE,
