@@ -24,7 +24,7 @@ CREATE TABLE IF NOT EXISTS company
 (
 	id INTEGER PRIMARY KEY AUTOINCREMENT,
 	name VARCHAR(50) NOT NULL,
-	company_description VARCHAR(300),
+	company_description VARCHAR(300) NOT NULL,
 	recruiter_id INTEGER NOT NULL,
 	FOREIGN KEY (recruiter_id) REFERENCES recruiter(id)
 );
