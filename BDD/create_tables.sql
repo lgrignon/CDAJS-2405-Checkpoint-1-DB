@@ -1,10 +1,10 @@
-CREATE TABLE Recruiter (
+CREATE TABLE IF NOT EXISTS Recruiter (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     login VARCHAR(100) UNIQUE NOT NULL,
     password VARCHAR(100) NOT NULL
 );
 
-CREATE TABLE Company (
+CREATE TABLE IF NOT EXISTS Company (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     name VARCHAR(255) NOT NULL,
     description TEXT,
@@ -12,7 +12,7 @@ CREATE TABLE Company (
     FOREIGN KEY (recruiter_id) REFERENCES Recruiter(id) ON DELETE CASCADE
 );
 
-CREATE TABLE JobOffer (
+CREATE TABLE IF NOT EXISTS JobOffer (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     job_title VARCHAR(255) NOT NULL,
     job_description TEXT,
@@ -21,7 +21,7 @@ CREATE TABLE JobOffer (
     FOREIGN KEY (company_id) REFERENCES Company(id) ON DELETE CASCADE
 );
 
-CREATE TABLE Candidate (
+CREATE TABLE IF NOT EXISTS Candidate (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     login VARCHAR(100) UNIQUE NOT NULL,
     password VARCHAR(100) NOT NULL,
@@ -32,11 +32,11 @@ CREATE TABLE Candidate (
     introduction TEXT
 );
 
-CREATE TABLE Application (
+CREATE TABLE IF NOT EXISTS Application (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     job_offer_id INTEGER NOT NULL,
     candidate_id INTEGER NOT NULL,
-    application_date DATE,
+    application_date DATE DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (job_offer_id) REFERENCES JobOffer(id) ON DELETE CASCADE,
     FOREIGN KEY (candidate_id) REFERENCES Candidate(id) ON DELETE CASCADE
 );
