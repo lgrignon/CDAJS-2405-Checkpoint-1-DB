@@ -12,28 +12,32 @@ class Arr {
     return this.value.length;
   }
 
-  pop(el: string): number {
+  pop(): string {
+    if (this.value.length === 0) {
+      return "undefined";
+    }
+
+    const lastElement = this.value[this.value.length - 1];
     const array = new Array(this.value.length - 1);
 
     for (let i = 0; i < this.value.length - 1; i++) {
       array[i] = this.value[i];
     }
 
-    array[this.value.length] = el;
     this.value = array;
-    return this.value.length;
+    return lastElement;
   }
 
-  shift(el: string): number {
+  shift(): string {
+    const firstElement = this.value[0];
     const array = new Array(this.value.length - 1);
 
     for (let i = 0; i < this.value.length - 1; i++) {
-      array[i] = this.value[i + 1];
+      array[i - 1] = this.value[i + 1];
     }
 
-    array[this.value.length] = el;
     this.value = array;
-    return this.value.length;
+    return firstElement;
   }
 }
 
