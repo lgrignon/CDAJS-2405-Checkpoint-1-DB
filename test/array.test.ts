@@ -17,7 +17,7 @@ describe("Array", () => {
 
   it("should remove last element in the array", () => {
     const newArray = new Arr();
-    
+
     newArray.push("a");
     newArray.push("b");
     newArray.push("c");
@@ -25,6 +25,20 @@ describe("Array", () => {
     newArray.pop();
 
     expect(newArray.value).toHaveLength(2);
+    expect(newArray.value).not.toContain("c");
+  })
+
+  it("should remove first element from array", () => {
+    const newArray = new Arr();
+
+    newArray.push("a");
+    newArray.push("b");
+    newArray.push("c");
+
+    newArray.shift();
+
+    expect(newArray.value).toHaveLength(2);
+    expect(newArray.value).not.toContain("a");
   })
 
 
