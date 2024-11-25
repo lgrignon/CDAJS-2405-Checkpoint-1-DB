@@ -3,7 +3,7 @@
 - Clone this project.
 - Read the readme to the end
 - Run `npm i`
-- Create a branch <firstname>\_<lastname> and push it now on github (if it doesn't work, ask your trainer about it)
+- Create a branch `<firstname>\_<lastname>` and push it now on github (if it doesn't work, ask your trainer about it)
 - Do all exercises (2 parts)
 - Commit your code for each differents steps you achieve, with a clear commit message
 
