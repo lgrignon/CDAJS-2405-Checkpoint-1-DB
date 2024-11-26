@@ -11,6 +11,14 @@ class Arr {
     this.value = array;
     return this.value.length;
   }
+
+  pop(): string | undefined {
+    return this.value.pop();
+  }
+
+  shift(): string | undefined {
+    return this.value.shift();
+  }
 }
 
 export default Arr;
